@@ -22,5 +22,14 @@ from the Supplementary Multilingual Plane have been added:
 
 * 𝟙 U+1D7D8 MATHEMATICAL DOUBLE STRUCK DIGIT ZERO through 𝟡 U+1D7E1 MATHEMATICAL DOUBLE STRUCK DIGIT NINE.
 
+## Explanation
+
+For historical reasons, the full set of circled digits and numerals from zero through 50 
+has been encoded in several different blocks in Unicode and system-installed fonts do not 
+typically cover the entire range. In terminal environments, this often leads to inconsistent 
+rendering as the font layout engine pulls glyphs from disparate fonts with partial coverage.
+
+In addition, Unicode only encodes up to numeral 50. There are many cases where we would like
+to have broader coverage.
 
 
