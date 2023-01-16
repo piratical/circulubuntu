@@ -1,0 +1,29 @@
+StartChar: umacron
+Encoding: 363 363 325
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 1
+ 22
+ 23
+ 7
+ 0
+ 80
+ 1
+ 9
+ 24
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 88 117 N 1 0 0 1 0 0 3
+Refer: 138 175 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Umacron
+EndChar

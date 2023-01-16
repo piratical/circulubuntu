@@ -1,0 +1,74 @@
+StartChar: dieresis_macron
+Encoding: 1114141 -1 679
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 18
+ 26
+ 26
+ 21
+ 146
+ 15
+ 9
+ 27
+ 27
+ 3
+ 146
+ 9
+ 24
+ 27
+ 18
+ 6
+ 146
+ 12
+ 0
+SVTCA[y-axis]
+MDAP[rnd]
+SHP[rp2]
+MIRP[rp0,min,rnd,black]
+SHP[rp2]
+MDRP[rp0,min,rnd,white]
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+SRP0
+MDRP[rp0,min,rnd,white]
+MIRP[min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+160 524 m 256,0,1
+ 139 524 139 524 125.5 537.5 c 128,-1,2
+ 112 551 112 551 112 573 c 0,3,4
+ 112 596 112 596 125.5 609 c 128,-1,5
+ 139 622 139 622 160 622 c 256,6,7
+ 181 622 181 622 194.5 609 c 128,-1,8
+ 208 596 208 596 208 573 c 0,9,10
+ 208 551 208 551 194.5 537.5 c 128,-1,11
+ 181 524 181 524 160 524 c 256,0,1
+340 524 m 256,12,13
+ 320 524 320 524 306 537.5 c 128,-1,14
+ 292 551 292 551 292 573 c 0,15,16
+ 292 596 292 596 306 609 c 128,-1,17
+ 320 622 320 622 340 622 c 256,18,19
+ 360 622 360 622 374 609 c 128,-1,20
+ 388 596 388 596 388 573 c 0,21,22
+ 388 551 388 551 374 537.5 c 128,-1,23
+ 360 524 360 524 340 524 c 256,12,13
+137 716 m 1,24,-1
+ 363 716 l 1,25,-1
+ 363 659 l 1,26,-1
+ 137 659 l 1,27,-1
+ 137 716 l 1,24,-1
+EndSplineSet
+Validated: 1
+EndChar

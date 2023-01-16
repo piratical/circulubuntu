@@ -1,0 +1,28 @@
+StartChar: Gcircumflex
+Encoding: 284 284 247
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 44
+ 43
+ 39
+ 9
+ 1
+ 80
+ 1
+ 14
+ 40
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 42 71 N 1 0 0 1 0 0 3
+Refer: 105 710 N 1 0 0 1 45 139 2
+Validated: 1
+EndChar

@@ -1,0 +1,35 @@
+StartChar: uni1F44
+Encoding: 8004 8004 1044
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 16
+ 3
+ 2
+ 0
+ 32
+ 50
+ 9
+ 0
+ 80
+ 3
+ 14
+ 51
+ 79
+ 2
+ 14
+ 49
+ 79
+CALL
+CALL
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 82 111 N 1 0 0 1 0 0 3
+Refer: 1170 8142 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

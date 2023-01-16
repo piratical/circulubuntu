@@ -1,0 +1,30 @@
+StartChar: igrave
+Encoding: 236 236 199
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -40
+NPUSHB
+ 9
+ 25
+ 23
+ 1
+ 11
+ 80
+ 1
+ 2
+ 24
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 268 305 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 -35 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Igrave
+EndChar

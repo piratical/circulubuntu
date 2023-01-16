@@ -1,0 +1,30 @@
+StartChar: minus
+Encoding: 8722 8722 415
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_4
+ 3
+ 2
+ 0
+ 3
+SVTCA[y-axis]
+MDAP[rnd]
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+MDAP[rnd]
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+46 298 m 1,0,-1
+ 455 298 l 1,1,-1
+ 455 228 l 1,2,-1
+ 46 228 l 1,3,-1
+ 46 298 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

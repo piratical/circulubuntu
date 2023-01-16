@@ -1,0 +1,23 @@
+StartChar: uni1FEA
+Encoding: 8170 8170 1195
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -321
+PUSHB_5
+ 20
+ 18
+ 4
+ 12
+ 80
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 60 89 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 -317 -63 2
+Validated: 1
+EndChar

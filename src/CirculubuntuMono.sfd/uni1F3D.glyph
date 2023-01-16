@@ -1,0 +1,26 @@
+StartChar: uni1F3D
+Encoding: 7997 7997 1037
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_2
+ 2
+ 1
+PUSHW_1
+ -346
+PUSHB_5
+ 14
+ 28
+ 4
+ 2
+ 80
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 3
+Refer: 1183 8158 N 1 0 0 1 -346 -63 2
+Validated: 1
+EndChar

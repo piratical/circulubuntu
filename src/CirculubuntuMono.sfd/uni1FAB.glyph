@@ -1,0 +1,27 @@
+StartChar: uni1FAB
+Encoding: 8107 8107 1137
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_2
+ 3
+ 2
+PUSHW_1
+ -404
+PUSHB_5
+ 64
+ 79
+ 1
+ 61
+ 80
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1210 8188 N 1 0 0 1 0 0 3
+Refer: 1182 8157 N 1 0 0 1 -395 -63 2
+Validated: 1
+Substitution2: "'ss01' Style Set 1 lookup 21 subtable" uni1FAB.alt
+EndChar

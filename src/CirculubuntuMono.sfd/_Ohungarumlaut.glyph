@@ -1,0 +1,35 @@
+StartChar: Ohungarumlaut
+Encoding: 336 336 302
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 16
+ 3
+ 2
+ 35
+ 34
+ 36
+ 0
+ 9
+ 80
+ 3
+ 4
+ 37
+ 79
+ 2
+ 4
+ 33
+ 79
+CALL
+CALL
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 50 79 N 1 0 0 1 0 0 3
+Refer: 357 733 N 1 0 0 1 36 137 2
+Validated: 1
+EndChar

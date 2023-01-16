@@ -1,0 +1,28 @@
+StartChar: Cdotaccent
+Encoding: 266 266 229
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 51
+ 35
+ 41
+ 7
+ 0
+ 80
+ 1
+ 12
+ 33
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 38 67 N 1 0 0 1 0 0 3
+Refer: 354 729 N 1 0 0 1 54 139 2
+Validated: 1
+EndChar

@@ -1,0 +1,28 @@
+StartChar: Jcircumflex
+Encoding: 308 308 272
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 63
+ 25
+ 21
+ 11
+ 2
+ 80
+ 1
+ 1
+ 22
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 45 74 N 1 0 0 1 0 0 3
+Refer: 105 710 N 1 0 0 1 50 139 2
+Validated: 1
+EndChar

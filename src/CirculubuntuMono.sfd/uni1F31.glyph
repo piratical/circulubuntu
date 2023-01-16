@@ -1,0 +1,29 @@
+StartChar: uni1F31
+Encoding: 7985 7985 1025
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -28
+NPUSHB
+ 9
+ 26
+ 38
+ 10
+ 0
+ 80
+ 1
+ 11
+ 22
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 940 953 N 1 0 0 1 0 0 3
+Refer: 1212 8190 N 1 0 0 1 -26 0 2
+Validated: 1
+EndChar

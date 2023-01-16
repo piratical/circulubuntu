@@ -1,0 +1,27 @@
+StartChar: uni1F9C
+Encoding: 8092 8092 1122
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_2
+ 3
+ 2
+PUSHW_1
+ -404
+PUSHB_5
+ 26
+ 44
+ 21
+ 13
+ 80
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1168 8140 N 1 0 0 1 0 0 3
+Refer: 1170 8142 N 1 0 0 1 -382 -63 2
+Validated: 1
+Substitution2: "'ss01' Style Set 1 lookup 20 subtable" uni1F9C.alt
+EndChar

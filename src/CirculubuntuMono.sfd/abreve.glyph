@@ -1,0 +1,29 @@
+StartChar: abreve
+Encoding: 259 259 222
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 5
+ 53
+ 67
+ 28
+ 19
+ 80
+ 2
+ 15
+ 49
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 353 728 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Abreve
+EndChar

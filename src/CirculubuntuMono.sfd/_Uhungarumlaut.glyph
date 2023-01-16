@@ -1,0 +1,35 @@
+StartChar: Uhungarumlaut
+Encoding: 368 368 330
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 16
+ 2
+ 1
+ 27
+ 28
+ 30
+ 4
+ 20
+ 80
+ 2
+ 6
+ 31
+ 79
+ 1
+ 6
+ 27
+ 79
+CALL
+CALL
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 56 85 N 1 0 0 1 0 0 3
+Refer: 357 733 N 1 0 0 1 27 137 2
+Validated: 1
+EndChar

@@ -1,0 +1,35 @@
+StartChar: Udieresis
+Encoding: 220 220 183
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 16
+ 2
+ 1
+ 0
+ 28
+ 46
+ 4
+ 20
+ 80
+ 2
+ 6
+ 38
+ 79
+ 1
+ 6
+ 26
+ 79
+CALL
+CALL
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 56 85 N 1 0 0 1 0 0 3
+Refer: 131 168 N 1 0 0 1 0 139 2
+Validated: 1
+EndChar

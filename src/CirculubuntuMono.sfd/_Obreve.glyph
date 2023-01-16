@@ -1,0 +1,28 @@
+StartChar: Obreve
+Encoding: 334 334 300
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 0
+ 36
+ 50
+ 0
+ 9
+ 80
+ 2
+ 4
+ 32
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 50 79 N 1 0 0 1 0 0 3
+Refer: 353 728 N 1 0 0 1 0 139 2
+Validated: 1
+EndChar

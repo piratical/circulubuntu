@@ -1,0 +1,13 @@
+StartChar: two.sinf
+Encoding: 63510 63510 442
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+Refer: 141 178 N 1 0 0 1 0 -434 3
+Validated: 1
+Substitution2: "'ss02' Style Set 2 lookup 15 subtable" twosuperior
+Substitution2: "'sups' Superscript lookup 9 subtable" two.sups
+Substitution2: "'dnom' Denominators lookup 8 subtable" twoinferior
+Substitution2: "'numr' Numerators lookup 6 subtable" twosuperior
+EndChar

@@ -1,0 +1,184 @@
+StartChar: ninesuperior
+Encoding: 8313 8313 373
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 12
+ 28
+ 24
+ 24
+ 0
+ 77
+ 28
+ 32
+ 22
+ 23
+ 0
+ 76
+ 22
+PUSHW_1
+ -40
+NPUSHB
+ 87
+ 11
+ 13
+ 0
+ 76
+ 18
+ 16
+ 25
+ 0
+ 77
+ 17
+ 8
+ 25
+ 0
+ 77
+ 17
+ 24
+ 16
+ 0
+ 77
+ 17
+ 32
+ 11
+ 15
+ 0
+ 76
+ 13
+ 24
+ 14
+ 16
+ 0
+ 76
+ 13
+ 40
+ 11
+ 13
+ 0
+ 76
+ 6
+ 24
+ 23
+ 24
+ 0
+ 76
+ 6
+ 32
+ 22
+ 0
+ 77
+ 6
+ 24
+ 21
+ 0
+ 77
+ 6
+ 32
+ 14
+ 16
+ 0
+ 76
+ 5
+ 56
+ 21
+ 0
+ 77
+ 7
+ 26
+ 150
+ 0
+ 34
+ 150
+ 15
+ 4
+ 4
+ 15
+ 23
+ 152
+ 10
+ 10
+ 3
+ 29
+ 152
+ 20
+ 99
+ 4
+ 152
+ 3
+ 95
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SRP1
+IP
+MDAP[rnd]
+MIRP[min,rnd,black]
+SVTCA[x-axis]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SRP0
+MIRP[min,rnd,black]
+MDRP[rp0,min,rnd,grey]
+MIRP[min,rnd,black]
+SHP[rp2]
+IUP[x]
+IUP[y]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+393 487 m 0,0,1
+ 393 387 393 387 331.5 333.5 c 128,-1,2
+ 270 280 270 280 154 280 c 1,3,-1
+ 152 334 l 1,4,5
+ 217 336 217 336 263 357 c 128,-1,6
+ 309 378 309 378 322 421 c 1,7,8
+ 304 413 304 413 287.5 410.5 c 128,-1,9
+ 271 408 271 408 257 408 c 0,10,11
+ 223 408 223 408 199 417 c 128,-1,12
+ 175 426 175 426 160 441.5 c 128,-1,13
+ 145 457 145 457 138.5 477 c 128,-1,14
+ 132 497 132 497 132 518 c 0,15,16
+ 132 537 132 537 139.5 557.5 c 128,-1,17
+ 147 578 147 578 162.5 595 c 128,-1,18
+ 178 612 178 612 201.5 622.5 c 128,-1,19
+ 225 633 225 633 257 633 c 0,20,21
+ 324 633 324 633 358.5 594.5 c 128,-1,22
+ 393 556 393 556 393 487 c 0,0,1
+263 461 m 0,23,24
+ 281 461 281 461 298 463 c 128,-1,25
+ 315 465 315 465 331 471 c 1,26,27
+ 333 520 333 520 317 550 c 128,-1,28
+ 301 580 301 580 258 580 c 0,29,30
+ 241 580 241 580 229.5 574 c 128,-1,31
+ 218 568 218 568 210.5 559 c 128,-1,32
+ 203 550 203 550 199.5 539.5 c 128,-1,33
+ 196 529 196 529 196 519 c 0,34,35
+ 196 461 196 461 263 461 c 0,23,24
+EndSplineSet
+Validated: 33
+Substitution2: "Single Substitution lookup 22 subtable" nineinferior
+Substitution2: "'sinf' Scientific Inferiors lookup 11 subtable" nine.sinf
+Substitution2: "'subs' Subscript lookup 10 subtable" nine.sinf
+Substitution2: "'sups' Superscript lookup 9 subtable" nine.sups
+Substitution2: "'dnom' Denominators lookup 8 subtable" nineinferior
+EndChar

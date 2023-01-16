@@ -1,0 +1,14 @@
+StartChar: three.sups
+Encoding: 63501 63501 433
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+Refer: 142 179 N 1 0 0 1 2 107 3
+Validated: 1
+Substitution2: "'ss02' Style Set 2 lookup 15 subtable" threesuperior
+Substitution2: "'sinf' Scientific Inferiors lookup 11 subtable" three.sinf
+Substitution2: "'subs' Subscript lookup 10 subtable" three.sinf
+Substitution2: "'dnom' Denominators lookup 8 subtable" threeinferior
+Substitution2: "'numr' Numerators lookup 6 subtable" threesuperior
+EndChar

@@ -1,0 +1,14 @@
+StartChar: one.sups
+Encoding: 63499 63499 431
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+Refer: 148 185 N 1 0 0 1 9 107 3
+Validated: 1
+Substitution2: "'ss02' Style Set 2 lookup 15 subtable" onesuperior
+Substitution2: "'sinf' Scientific Inferiors lookup 11 subtable" one.sinf
+Substitution2: "'subs' Subscript lookup 10 subtable" one.sinf
+Substitution2: "'dnom' Denominators lookup 8 subtable" oneinferior
+Substitution2: "'numr' Numerators lookup 6 subtable" onesuperior
+EndChar

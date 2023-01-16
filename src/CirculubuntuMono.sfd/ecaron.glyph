@@ -1,0 +1,29 @@
+StartChar: ecaron
+Encoding: 283 283 246
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 11
+ 34
+ 38
+ 19
+ 2
+ 80
+ 2
+ 0
+ 39
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 72 101 N 1 0 0 1 0 0 3
+Refer: 351 711 N 1 0 0 1 9 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Ecaron
+EndChar

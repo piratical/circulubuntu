@@ -1,0 +1,37 @@
+StartChar: Edieresis
+Encoding: 203 203 166
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_2
+ 2
+ 1
+PUSHW_1
+ -7
+NPUSHB
+ 13
+ 14
+ 32
+ 0
+ 10
+ 80
+ 2
+ 1
+ 24
+ 79
+ 1
+ 1
+ 12
+ 79
+CALL
+CALL
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 40 69 N 1 0 0 1 0 0 3
+Refer: 131 168 N 1 0 0 1 18 139 2
+Validated: 1
+EndChar

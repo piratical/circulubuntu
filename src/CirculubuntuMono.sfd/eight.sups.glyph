@@ -1,0 +1,14 @@
+StartChar: eight.sups
+Encoding: 63506 63506 438
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+Refer: 372 8312 N 1 0 0 1 0 107 3
+Validated: 1
+Substitution2: "'ss02' Style Set 2 lookup 15 subtable" eightsuperior
+Substitution2: "'sinf' Scientific Inferiors lookup 11 subtable" eight.sinf
+Substitution2: "'subs' Subscript lookup 10 subtable" eight.sinf
+Substitution2: "'dnom' Denominators lookup 8 subtable" eightinferior
+Substitution2: "'numr' Numerators lookup 6 subtable" eightsuperior
+EndChar

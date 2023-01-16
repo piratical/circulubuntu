@@ -1,0 +1,28 @@
+StartChar: Gcaron
+Encoding: 486 486 574
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 53
+ 38
+ 42
+ 9
+ 1
+ 80
+ 1
+ 14
+ 43
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 42 71 N 1 0 0 1 0 0 3
+Refer: 351 711 N 1 0 0 1 54 139 2
+Validated: 1
+EndChar

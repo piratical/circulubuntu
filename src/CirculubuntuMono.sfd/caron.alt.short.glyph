@@ -1,0 +1,34 @@
+StartChar: caron.alt.short
+Encoding: 1114119 -1 453
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_6
+ 0
+ 64
+ 3
+ 3
+ 128
+ 2
+SVTCA[y-axis]
+MDAP[rnd]
+SMD
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+MDAP[rnd]
+SMD
+MDRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+289 693 m 1,0,-1
+ 265 520 l 1,1,-1
+ 210 520 l 1,2,-1
+ 210 693 l 1,3,-1
+ 289 693 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

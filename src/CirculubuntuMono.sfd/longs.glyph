@@ -1,0 +1,74 @@
+StartChar: longs
+Encoding: 383 383 344
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 15
+ -24
+NPUSHB
+ 21
+ 17
+ 18
+ 0
+ 76
+ 19
+ 127
+ 0
+ 0
+ 21
+ 20
+ 9
+ 9
+ 21
+ 10
+ 10
+ 13
+ 136
+ 6
+ 77
+ 0
+ 74
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+SVTCA[x-axis]
+SRP1
+SHP[rp1]
+MDAP[rnd]
+SRP1
+SRP2
+IP
+MDAP[rnd]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+161 0 m 1,0,-1
+ 161 506 l 2,1,2
+ 161 560 161 560 176 595.5 c 128,-1,3
+ 191 631 191 631 215.5 653 c 128,-1,4
+ 240 675 240 675 272.5 684 c 128,-1,5
+ 305 693 305 693 341 693 c 256,6,7
+ 377 693 377 693 413.5 685 c 128,-1,8
+ 450 677 450 677 482 666 c 1,9,-1
+ 467 595 l 1,10,11
+ 445 606 445 606 412 614 c 128,-1,12
+ 379 622 379 622 345 622 c 0,13,14
+ 324 622 324 622 305.5 616.5 c 128,-1,15
+ 287 611 287 611 273 597.5 c 128,-1,16
+ 259 584 259 584 251 561.5 c 128,-1,17
+ 243 539 243 539 243 505 c 2,18,-1
+ 243 0 l 1,19,-1
+ 161 0 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 17 subtable" S
+EndChar

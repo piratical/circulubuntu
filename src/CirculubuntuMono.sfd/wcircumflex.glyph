@@ -1,0 +1,30 @@
+StartChar: wcircumflex
+Encoding: 373 373 335
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -2
+NPUSHB
+ 9
+ 48
+ 44
+ 14
+ 37
+ 80
+ 1
+ 14
+ 45
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 90 119 N 1 0 0 1 0 0 3
+Refer: 105 710 N 1 0 0 1 -2 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Wcircumflex
+EndChar

@@ -1,0 +1,11 @@
+StartChar: uni1F98
+Encoding: 8088 8088 1118
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1154 8125 N 1 0 0 1 -310 -63 3
+Refer: 1168 8140 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "'ss01' Style Set 1 lookup 20 subtable" uni1F98.alt
+EndChar

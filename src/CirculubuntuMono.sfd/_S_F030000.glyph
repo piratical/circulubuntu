@@ -1,0 +1,36 @@
+StartChar: SF030000
+Encoding: 9488 9488 1255
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_6
+ 1
+ 4
+ 0
+ 2
+ 4
+ 1
+SVTCA[y-axis]
+MDAP[rnd]
+MDRP[rnd,black]
+MDAP[rnd]
+SVTCA[x-axis]
+MDAP[rnd]
+MDAP[rnd]
+MDRP[rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+0 370 m 1,0,-1
+ 290 370 l 1,1,-1
+ 290 -170 l 1,2,-1
+ 210 -170 l 1,3,-1
+ 210 290 l 1,4,-1
+ 0 290 l 1,5,-1
+ 0 370 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

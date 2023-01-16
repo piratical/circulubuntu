@@ -1,0 +1,28 @@
+StartChar: colon
+Encoding: 58 58 29
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 0
+ 17
+ 12
+ 5
+ 0
+ 80
+ 1
+ 8
+ 14
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 17 46 N 1 0 0 1 0 0 3
+Refer: 17 46 N 1 0 0 1 0 323 2
+Validated: 1
+EndChar

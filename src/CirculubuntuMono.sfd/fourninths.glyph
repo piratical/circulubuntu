@@ -1,0 +1,255 @@
+StartChar: fourninths
+Encoding: 62734 62734 406
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 48
+ -24
+PUSHB_4
+ 23
+ 0
+ 77
+ 46
+PUSHW_1
+ -32
+PUSHB_4
+ 23
+ 0
+ 77
+ 18
+PUSHW_1
+ -8
+PUSHB_4
+ 18
+ 0
+ 77
+ 15
+PUSHW_1
+ -32
+NPUSHB
+ 84
+ 14
+ 21
+ 0
+ 76
+ 10
+ 32
+ 14
+ 21
+ 0
+ 76
+ 7
+ 40
+ 14
+ 21
+ 0
+ 76
+ 50
+ 52
+ 51
+ 52
+ 156
+ 53
+ 50
+ 20
+ 53
+ 53
+ 50
+ 51
+ 51
+ 48
+ 31
+ 34
+ 45
+ 45
+ 29
+ 24
+ 26
+ 150
+ 23
+ 150
+ 29
+ 53
+ 53
+ 3
+ 37
+ 150
+ 16
+ 42
+ 150
+ 8
+ 0
+ 0
+ 8
+ 16
+ 52
+ 53
+ 89
+ 50
+ 51
+ 91
+ 45
+ 34
+ 96
+ 31
+ 23
+ 48
+ 26
+ 29
+ 28
+ 97
+ 35
+ 152
+ 3
+ 5
+ 5
+ 39
+ 0
+ 152
+ 21
+ 104
+ 39
+ 152
+ 13
+ 102
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SRP2
+IP
+MDAP[rnd]
+SHP[rp1]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MDRP[rp0,min,rnd,black]
+SHP[rp2]
+MDRP[min,rnd,black]
+SHP[rp2]
+SHP[rp2]
+MIAP[rnd]
+SHP[rp1]
+MIAP[rnd]
+SHP[rp1]
+MIAP[rnd]
+SHP[rp1]
+SVTCA[x-axis]
+MDAP[rnd]
+MDRP[min,rnd,grey]
+SHP[rp2]
+MDAP[rnd]
+SRP0
+MIRP[min,rnd,black]
+SRP0
+MIRP[min,rnd,black]
+SHP[rp2]
+SHP[rp1]
+MDAP[rnd]
+MDAP[rnd]
+MIRP[min,rnd,black]
+MIRP[rp0,min,rnd,black]
+MDRP[min,rnd,black]
+SRP1
+SHP[rp1]
+SRP1
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+MDAP[rnd]
+SDPVTL[orthog]
+SRP0
+CALL
+SDPVTL[orthog]
+RDTG
+MDRP[rnd,grey]
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+286 41 m 1,0,1
+ 332 43 332 43 361 54.5 c 128,-1,2
+ 390 66 390 66 403 92 c 1,3,4
+ 381 81 381 81 363 81 c 0,5,6
+ 316 81 316 81 293.5 107 c 128,-1,7
+ 271 133 271 133 271 168 c 0,8,9
+ 271 185 271 185 277 201.5 c 128,-1,10
+ 283 218 283 218 295 230.5 c 128,-1,11
+ 307 243 307 243 324.5 251 c 128,-1,12
+ 342 259 342 259 365 259 c 0,13,14
+ 420 259 420 259 444.5 228.5 c 128,-1,15
+ 469 198 469 198 469 150 c 0,16,17
+ 469 119 469 119 458.5 90 c 128,-1,18
+ 448 61 448 61 426 39 c 128,-1,19
+ 404 17 404 17 370.5 4 c 128,-1,20
+ 337 -9 337 -9 291 -9 c 1,21,-1
+ 286 41 l 1,0,1
+204 626 m 1,22,-1
+ 204 474 l 1,23,-1
+ 239 474 l 1,24,-1
+ 239 424 l 1,25,-1
+ 204 424 l 1,26,-1
+ 204 376 l 1,27,-1
+ 145 376 l 1,28,-1
+ 145 424 l 1,29,-1
+ 15 424 l 1,30,-1
+ 15 465 l 1,31,32
+ 42 511 42 511 65.5 548.5 c 128,-1,33
+ 89 586 89 586 121 626 c 1,34,-1
+ 204 626 l 1,22,-1
+369 131 m 0,35,36
+ 389 131 389 131 413 144 c 1,37,38
+ 412 209 412 209 367 209 c 0,39,40
+ 347 209 347 209 336.5 196.5 c 128,-1,41
+ 326 184 326 184 326 170 c 0,42,43
+ 326 154 326 154 336.5 142.5 c 128,-1,44
+ 347 131 347 131 369 131 c 0,35,36
+145 583 m 1,45,46
+ 123 556 123 556 106.5 528 c 128,-1,47
+ 90 500 90 500 74 474 c 1,48,-1
+ 145 474 l 1,49,-1
+ 145 583 l 1,45,46
+103 0 m 1,50,-1
+ 33 0 l 1,51,-1
+ 412 619 l 1,52,-1
+ 482 619 l 1,53,-1
+ 103 0 l 1,50,-1
+EndSplineSet
+Validated: 1
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sinf fraction nine.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sinf fraction nine.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sinf fraction nineinferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sinf fraction ninesuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sinf fraction nine
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sups fraction nine.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sups fraction nine.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sups fraction nineinferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sups fraction ninesuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sups fraction nine
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" fourinferior fraction nine.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" fourinferior fraction nine.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" fourinferior fraction nineinferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" fourinferior fraction ninesuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" fourinferior fraction nine
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" foursuperior fraction nine.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" foursuperior fraction nine.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" foursuperior fraction nineinferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" foursuperior fraction ninesuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" foursuperior fraction nine
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four fraction nine.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four fraction nine.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four fraction nineinferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four fraction ninesuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four fraction nine
+EndChar

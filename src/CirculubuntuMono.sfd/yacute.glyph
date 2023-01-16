@@ -1,0 +1,29 @@
+StartChar: yacute
+Encoding: 253 253 216
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 20
+ 35
+ 33
+ 32
+ 21
+ 80
+ 1
+ 9
+ 34
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 92 121 N 1 0 0 1 0 0 3
+Refer: 143 180 N 1 0 0 1 15 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Yacute
+EndChar

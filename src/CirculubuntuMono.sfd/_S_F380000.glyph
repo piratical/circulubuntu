@@ -1,0 +1,56 @@
+StartChar: SF380000
+Encoding: 9562 9562 1270
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 12
+ 7
+ 10
+ 4
+ 1
+ 11
+ 0
+ 7
+ 10
+ 2
+ 8
+ 4
+ 1
+SVTCA[y-axis]
+MDAP[rnd]
+MDRP[rnd,black]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+MDRP[rnd,black]
+SVTCA[x-axis]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+MDRP[rnd,black]
+MDAP[rnd]
+MDRP[rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+500 370 m 1,0,-1
+ 290 370 l 1,1,-1
+ 290 830 l 1,2,-1
+ 370 830 l 1,3,-1
+ 370 450 l 1,4,-1
+ 500 450 l 1,5,-1
+ 500 370 l 1,0,-1
+500 210 m 1,6,-1
+ 130 210 l 1,7,-1
+ 130 830 l 1,8,-1
+ 210 830 l 1,9,-1
+ 210 290 l 1,10,-1
+ 500 290 l 1,11,-1
+ 500 210 l 1,6,-1
+EndSplineSet
+Validated: 1
+EndChar

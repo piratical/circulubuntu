@@ -1,0 +1,24 @@
+StartChar: rcommaaccent
+Encoding: 343 343 307
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -156
+PUSHB_5
+ 23
+ 17
+ 0
+ 6
+ 80
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 85 114 N 1 0 0 1 0 0 3
+Refer: 451 -1 N 1 0 0 1 -129 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Rcommaaccent
+EndChar

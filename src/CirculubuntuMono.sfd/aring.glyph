@@ -1,0 +1,33 @@
+StartChar: aring
+Encoding: 229 229 192
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 13
+ 3
+ 2
+ 5
+ 54
+ 49
+ 28
+ 19
+ 80
+ 3
+ 2
+ 15
+ 52
+ 79
+CALL
+SHC[rp2]
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 355 730 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Aring
+EndChar

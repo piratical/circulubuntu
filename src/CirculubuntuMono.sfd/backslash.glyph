@@ -1,0 +1,51 @@
+StartChar: backslash
+Encoding: 92 92 63
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 16
+ 1
+ 3
+ 0
+ 3
+ 141
+ 2
+ 1
+ 20
+ 2
+ 1
+ 2
+ 0
+ 3
+ 2
+ 1
+ 0
+SVTCA[y-axis]
+MDAP[rnd]
+SHP[rp2]
+MDAP[rnd]
+SHP[rp1]
+SVTCA[x-axis]
+MDAP[rnd]
+MDAP[rnd]
+SDPVTL[orthog]
+CALL
+SDPVTL[orthog]
+RDTG
+MDRP[rnd,grey]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+70 699 m 1,0,-1
+ 153 699 l 1,1,-1
+ 430 -165 l 1,2,-1
+ 346 -165 l 1,3,-1
+ 70 699 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 17 subtable" Backslash
+EndChar

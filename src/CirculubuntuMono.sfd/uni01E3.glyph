@@ -1,0 +1,28 @@
+StartChar: uni01E3
+Encoding: 483 483 571
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 3
+ 4
+ 76
+ 77
+ 33
+ 7
+ 80
+ 3
+ 0
+ 78
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 193 230 N 1 0 0 1 0 0 3
+Refer: 138 175 N 1 0 0 1 9 0 2
+Validated: 1
+EndChar

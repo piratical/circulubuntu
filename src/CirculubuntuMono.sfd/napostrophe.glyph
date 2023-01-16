@@ -1,0 +1,30 @@
+StartChar: napostrophe
+Encoding: 329 329 295
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -184
+NPUSHB
+ 9
+ 27
+ 20
+ 0
+ 5
+ 80
+ 1
+ 2
+ 26
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 81 110 N 1 0 0 1 0 0 3
+Refer: 350 700 N 1 0 0 1 -185 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" napostrophe.case
+EndChar

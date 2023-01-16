@@ -1,0 +1,31 @@
+StartChar: hyphen
+Encoding: 45 45 16
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_4
+ 2
+ 3
+ 0
+ 3
+SVTCA[y-axis]
+MDAP[rnd]
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+MDAP[rnd]
+MDRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+140 293 m 1,0,-1
+ 360 293 l 1,1,-1
+ 360 215 l 1,2,-1
+ 140 215 l 1,3,-1
+ 140 293 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 17 subtable" Hyphen
+EndChar

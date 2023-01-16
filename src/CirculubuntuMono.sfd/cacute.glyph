@@ -1,0 +1,29 @@
+StartChar: cacute
+Encoding: 263 263 226
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 49
+ 36
+ 34
+ 0
+ 26
+ 80
+ 1
+ 4
+ 35
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 70 99 N 1 0 0 1 0 0 3
+Refer: 143 180 N 1 0 0 1 45 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Cacute
+EndChar

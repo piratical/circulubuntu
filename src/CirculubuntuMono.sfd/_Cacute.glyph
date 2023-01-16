@@ -1,0 +1,28 @@
+StartChar: Cacute
+Encoding: 262 262 225
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 55
+ 35
+ 33
+ 7
+ 0
+ 80
+ 1
+ 12
+ 34
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 38 67 N 1 0 0 1 0 0 3
+Refer: 143 180 N 1 0 0 1 54 137 2
+Validated: 1
+EndChar

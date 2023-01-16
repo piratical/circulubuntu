@@ -1,0 +1,185 @@
+StartChar: o
+Encoding: 111 111 82
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 16
+ 30
+ 24
+ 16
+ 0
+ 77
+ 30
+ 32
+ 15
+ 0
+ 77
+ 30
+ 8
+ 14
+ 0
+ 77
+ 28
+PUSHW_1
+ -32
+PUSHB_5
+ 15
+ 16
+ 0
+ 76
+ 28
+PUSHW_1
+ -16
+PUSHB_4
+ 14
+ 0
+ 77
+ 24
+PUSHW_1
+ -32
+PUSHB_5
+ 15
+ 16
+ 0
+ 76
+ 24
+PUSHW_1
+ -8
+NPUSHB
+ 15
+ 14
+ 0
+ 77
+ 22
+ 32
+ 15
+ 16
+ 0
+ 76
+ 22
+ 8
+ 14
+ 0
+ 77
+ 18
+PUSHW_1
+ -24
+NPUSHB
+ 17
+ 8
+ 9
+ 0
+ 76
+ 12
+ 16
+ 8
+ 9
+ 0
+ 76
+ 7
+ 16
+ 8
+ 9
+ 0
+ 76
+ 3
+PUSHW_1
+ -32
+PUSHB_4
+ 9
+ 0
+ 77
+ 3
+PUSHW_1
+ -16
+NPUSHB
+ 24
+ 8
+ 0
+ 77
+ 20
+ 130
+ 0
+ 33
+ 26
+ 130
+ 10
+ 64
+ 9
+ 12
+ 72
+ 10
+ 32
+ 23
+ 136
+ 15
+ 80
+ 29
+ 136
+ 5
+ 81
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SVTCA[x-axis]
+SRP0
+MDRP[rp0,rnd,white]
+CALL
+MIRP[min,rnd,black]
+SRP0
+MDRP[rp0,min,rnd,white]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+460 232 m 256,0,1
+ 460 177 460 177 444.5 132.5 c 128,-1,2
+ 429 88 429 88 401 56 c 128,-1,3
+ 373 24 373 24 334 6.5 c 128,-1,4
+ 295 -11 295 -11 249 -11 c 0,5,6
+ 204 -11 204 -11 165.5 6.5 c 128,-1,7
+ 127 24 127 24 99 56 c 128,-1,8
+ 71 88 71 88 55.5 132.5 c 128,-1,9
+ 40 177 40 177 40 232 c 256,10,11
+ 40 287 40 287 55.5 332 c 128,-1,12
+ 71 377 71 377 99 408.5 c 128,-1,13
+ 127 440 127 440 165.5 457.5 c 128,-1,14
+ 204 475 204 475 249 475 c 0,15,16
+ 295 475 295 475 334 457.5 c 128,-1,17
+ 373 440 373 440 401 408.5 c 128,-1,18
+ 429 377 429 377 444.5 332 c 128,-1,19
+ 460 287 460 287 460 232 c 256,0,1
+375 232 m 0,20,21
+ 375 311 375 311 341 356.5 c 128,-1,22
+ 307 402 307 402 249 402 c 0,23,24
+ 192 402 192 402 158.5 356.5 c 128,-1,25
+ 125 311 125 311 125 232 c 0,26,27
+ 125 154 125 154 158.5 108.5 c 128,-1,28
+ 192 63 192 63 249 63 c 0,29,30
+ 307 63 307 63 341 108.5 c 128,-1,31
+ 375 154 375 154 375 232 c 0,20,21
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" O
+Substitution2: "'ordn' Ordinals in Latin lookup 7 subtable" ordmasculine
+EndChar

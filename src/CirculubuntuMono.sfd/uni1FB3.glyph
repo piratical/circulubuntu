@@ -1,0 +1,22 @@
+StartChar: uni1FB3
+Encoding: 8115 8115 1145
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_7
+ 2
+ 11
+ 53
+ 48
+ 20
+ 9
+ 80
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 932 945 N 1 0 0 1 0 0 3
+Refer: 1155 8126 N 1 0 0 1 18 0 2
+Validated: 1
+EndChar

@@ -1,0 +1,29 @@
+StartChar: gcommaaccent
+Encoding: 291 291 254
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 37
+ 48
+ 56
+ 7
+ 16
+ 80
+ 2
+ 12
+ 46
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 74 103 N 1 0 0 1 0 0 3
+Refer: 452 -1 N 1 0 0 1 22 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Gcommaaccent
+EndChar

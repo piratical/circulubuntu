@@ -1,0 +1,27 @@
+StartChar: aringacute
+Encoding: 507 507 595
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 9
+ 4
+ 3
+ 2
+ 5
+ 58
+ 49
+ 28
+ 19
+ 80
+CALL
+SHC[rp2]
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 678 -1 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

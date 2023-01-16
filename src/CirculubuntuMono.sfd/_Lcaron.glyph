@@ -1,0 +1,22 @@
+StartChar: Lcaron
+Encoding: 317 317 282
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_7
+ 1
+ 18
+ 8
+ 6
+ 2
+ 0
+ 80
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 47 76 N 1 0 0 1 0 0 3
+Refer: 450 -1 N 1 0 0 1 44 -73 2
+Validated: 1
+EndChar

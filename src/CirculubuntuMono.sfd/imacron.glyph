@@ -1,0 +1,30 @@
+StartChar: imacron
+Encoding: 299 299 262
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -37
+NPUSHB
+ 9
+ 22
+ 23
+ 1
+ 11
+ 80
+ 1
+ 2
+ 24
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 268 305 N 1 0 0 1 0 0 3
+Refer: 138 175 N 1 0 0 1 -35 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Imacron
+EndChar

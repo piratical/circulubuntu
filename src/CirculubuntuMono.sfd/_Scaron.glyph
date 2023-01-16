@@ -1,0 +1,28 @@
+StartChar: Scaron
+Encoding: 352 352 107
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 0
+ 50
+ 54
+ 46
+ 37
+ 80
+ 1
+ 15
+ 55
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 54 83 N 1 0 0 1 0 0 3
+Refer: 351 711 N 1 0 0 1 18 139 2
+Validated: 1
+EndChar

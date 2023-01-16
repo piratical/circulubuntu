@@ -1,0 +1,29 @@
+StartChar: racute
+Encoding: 341 341 305
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 26
+ 16
+ 14
+ 0
+ 6
+ 80
+ 1
+ 2
+ 15
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 85 114 N 1 0 0 1 0 0 3
+Refer: 143 180 N 1 0 0 1 45 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Racute
+EndChar

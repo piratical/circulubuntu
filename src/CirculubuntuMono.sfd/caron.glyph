@@ -1,0 +1,56 @@
+StartChar: caron
+Encoding: 711 711 351
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 15
+ 3
+ 4
+ 1
+ 0
+ 64
+ 2
+ 2
+ 7
+ 6
+ 3
+ 3
+ 1
+ 128
+ 2
+ 5
+SVTCA[y-axis]
+MDAP[rnd]
+SHP[rp1]
+SMD
+MDRP[min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+SVTCA[x-axis]
+SRP1
+SRP2
+IP
+RTHG
+MDAP[rnd]
+SMD
+MDRP[min,rnd,black]
+SHP[rp2]
+MDRP[min,rnd,black]
+SHP[rp2]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+129 651 m 1,0,-1
+ 163 690 l 1,1,-1
+ 250 612 l 1,2,-1
+ 337 690 l 1,3,-1
+ 371 651 l 1,4,-1
+ 250 523 l 1,5,-1
+ 129 651 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

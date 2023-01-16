@@ -1,0 +1,2021 @@
+StartChar: uniF000
+Encoding: 61440 61440 1242
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 31
+ 51
+ 16
+ 9
+ 0
+ 77
+ 50
+ 24
+ 9
+ 0
+ 77
+ 43
+ 8
+ 9
+ 0
+ 77
+ 42
+ 8
+ 9
+ 0
+ 77
+ 39
+ 16
+ 9
+ 0
+ 77
+ 38
+ 16
+ 9
+ 0
+ 77
+ 35
+PUSHW_1
+ -16
+PUSHB_4
+ 9
+ 0
+ 77
+ 34
+PUSHW_1
+ -8
+NPUSHB
+ 14
+ 9
+ 0
+ 77
+ 33
+ 16
+ 9
+ 0
+ 77
+ 32
+ 8
+ 9
+ 0
+ 77
+ 30
+PUSHW_1
+ -8
+NPUSHB
+ 185
+ 9
+ 0
+ 77
+ 29
+ 16
+ 9
+ 0
+ 77
+ 28
+ 24
+ 9
+ 0
+ 77
+ 6
+ 27
+ 38
+ 27
+ 54
+ 27
+ 70
+ 27
+ 102
+ 27
+ 134
+ 27
+ 6
+ 61
+ 7
+ 27
+ 1
+ 9
+ 6
+ 26
+ 38
+ 26
+ 54
+ 26
+ 70
+ 26
+ 102
+ 26
+ 134
+ 26
+ 6
+ 61
+ 7
+ 26
+ 1
+ 9
+ 6
+ 19
+ 22
+ 19
+ 38
+ 19
+ 102
+ 19
+ 4
+ 6
+ 18
+ 22
+ 18
+ 38
+ 18
+ 102
+ 18
+ 4
+ 61
+ 9
+ 5
+ 1
+ 9
+ 4
+ 1
+ 62
+ 9
+ 1
+ 25
+ 1
+ 2
+ 9
+ 0
+ 25
+ 0
+ 2
+ 65
+ 7
+ 38
+ 1
+ 7
+ 37
+ 1
+ 7
+ 34
+ 1
+ 7
+ 33
+ 1
+ 9
+ 31
+ 1
+ 9
+ 28
+ 120
+ 9
+ 73
+ 9
+ 23
+ 105
+ 23
+ 2
+ 9
+ 20
+ 105
+ 20
+ 2
+ 6
+ 14
+ 54
+ 14
+ 102
+ 14
+ 3
+ 6
+ 13
+ 54
+ 13
+ 102
+ 13
+ 3
+ 9
+ 11
+ 57
+ 11
+ 2
+ 9
+ 8
+ 57
+ 8
+ 2
+ 61
+ 154
+ 49
+ 170
+ 49
+ 2
+ 105
+ 49
+ 121
+ 49
+ 137
+ 49
+ 3
+ 49
+ 64
+ 10
+ 14
+ 72
+ 10
+ 49
+ 1
+ 49
+ 47
+ 128
+ 52
+ 59
+ 72
+ 47
+ 127
+ 40
+ 143
+ 40
+ 2
+ 94
+ 40
+ 110
+ 40
+ 2
+ 77
+ 40
+ 1
+ 62
+ 40
+ 1
+ 40
+PUSHW_1
+ 384
+NPUSHB
+ 78
+ 40
+ 43
+ 72
+ 154
+ 40
+ 170
+ 40
+ 2
+ 105
+ 40
+ 121
+ 40
+ 137
+ 40
+ 3
+ 40
+ 64
+ 10
+ 14
+ 72
+ 40
+ 176
+ 9
+ 73
+ 40
+ 36
+ 128
+ 52
+ 59
+ 72
+ 127
+ 36
+ 143
+ 36
+ 2
+ 94
+ 36
+ 110
+ 36
+ 2
+ 77
+ 36
+ 1
+ 46
+ 36
+ 62
+ 36
+ 2
+ 13
+ 36
+ 29
+ 36
+ 2
+ 253
+ 36
+ 1
+ 154
+ 36
+ 170
+ 36
+ 2
+ 105
+ 36
+ 121
+ 36
+ 137
+ 36
+ 3
+ 36
+ 64
+ 10
+ 14
+ 72
+ 10
+ 36
+ 1
+ 36
+ 54
+PUSHW_1
+ -128
+NPUSHB
+ 9
+ 52
+ 59
+ 72
+ 7
+ 54
+ 1
+ 54
+ 53
+ 50
+PUSHW_1
+ -128
+NPUSHB
+ 12
+ 13
+ 19
+ 72
+ 23
+ 50
+ 39
+ 50
+ 55
+ 50
+ 3
+ 50
+ 43
+PUSHW_1
+ -512
+NPUSHB
+ 19
+ 45
+ 49
+ 72
+ 49
+ 43
+ 1
+ 32
+ 43
+ 1
+ 1
+ 43
+ 17
+ 43
+ 2
+ 241
+ 43
+ 1
+ 0
+ 43
+PUSHW_1
+ -128
+NPUSHB
+ 12
+ 13
+ 19
+ 72
+ 16
+ 43
+ 32
+ 43
+ 48
+ 43
+ 3
+ 43
+ 39
+PUSHW_1
+ -512
+PUSHB_4
+ 45
+ 49
+ 72
+ 39
+PUSHW_1
+ -448
+PUSHB_4
+ 40
+ 44
+ 72
+ 39
+PUSHW_1
+ -128
+NPUSHB
+ 255
+ 13
+ 19
+ 72
+ 16
+ 39
+ 32
+ 39
+ 48
+ 39
+ 3
+ 39
+ 28
+ 12
+ 32
+ 1
+ 9
+ 3
+ 32
+ 34
+ 47
+ 21
+ 143
+ 21
+ 2
+ 9
+ 21
+ 1
+ 59
+ 143
+ 21
+ 159
+ 21
+ 255
+ 21
+ 3
+ 94
+ 21
+ 1
+ 189
+ 21
+ 237
+ 21
+ 253
+ 21
+ 3
+ 91
+ 21
+ 1
+ 76
+ 21
+ 1
+ 27
+ 21
+ 1
+ 170
+ 21
+ 186
+ 21
+ 2
+ 121
+ 21
+ 1
+ 8
+ 21
+ 24
+ 21
+ 2
+ 10
+ 21
+ 9
+ 19
+ 1
+ 59
+ 19
+ 15
+ 12
+ 63
+ 12
+ 111
+ 12
+ 3
+ 61
+ 79
+ 12
+ 143
+ 12
+ 191
+ 12
+ 239
+ 12
+ 4
+ 30
+ 12
+ 1
+ 173
+ 12
+ 237
+ 12
+ 2
+ 123
+ 12
+ 1
+ 76
+ 12
+ 1
+ 11
+ 12
+ 1
+ 170
+ 12
+ 218
+ 12
+ 2
+ 57
+ 12
+ 105
+ 12
+ 2
+ 8
+ 12
+ 1
+ 11
+ 12
+ 47
+ 8
+ 95
+ 8
+ 2
+ 9
+ 8
+ 1
+ 59
+ 233
+ 8
+ 1
+ 143
+ 8
+ 191
+ 8
+ 2
+ 30
+ 8
+ 1
+ 237
+ 8
+ 1
+ 123
+ 8
+ 1
+ 76
+ 8
+ 1
+ 170
+ 8
+ 218
+ 8
+ 2
+ 8
+ 8
+ 56
+ 8
+ 2
+ 11
+ 8
+ 102
+ 26
+ 134
+ 26
+ 2
+ 7
+ 26
+ 1
+ 51
+ 26
+ 25
+ 0
+ 23
+ 96
+ 23
+ 2
+ 61
+ 80
+ 23
+ 128
+ 23
+ 144
+ 23
+ 240
+ 23
+ 4
+ 225
+ 23
+ 241
+ 23
+ 2
+ 178
+ 23
+ 1
+ 83
+ 23
+ 1
+ 20
+ 23
+ 68
+ 23
+ 2
+ 181
+ 23
+ 1
+ 118
+ 23
+ 166
+ 23
+ 2
+ 7
+ 23
+ 23
+ 23
+ 2
+ 10
+ 23
+ 0
+ 15
+ 48
+ 15
+ 96
+ 15
+ 3
+ 61
+ 128
+ 15
+ 176
+ 15
+ 224
+ 15
+ 3
+ 17
+ 15
+ 65
+ 15
+ 2
+ 225
+ 15
+ 1
+ 114
+ 15
+ 162
+ 15
+ 2
+ 4
+ 15
+ 68
+ 15
+ 2
+ 212
+NPUSHB
+ 62
+ 15
+ 1
+ 165
+ 15
+ 1
+ 102
+ 15
+ 1
+ 7
+ 15
+ 55
+ 15
+ 2
+ 11
+ 15
+ 0
+ 10
+ 48
+ 10
+ 2
+ 61
+ 144
+ 10
+ 192
+ 10
+ 2
+ 33
+ 10
+ 1
+ 241
+ 10
+ 1
+ 130
+ 10
+ 1
+ 84
+ 10
+ 1
+ 228
+ 10
+ 1
+ 181
+ 10
+ 1
+ 70
+ 10
+ 1
+ 23
+ 10
+ 1
+ 10
+ 0
+ 4
+ 57
+ 230
+ 3
+ 1
+ 3
+ 6
+ 16
+ 25
+ 31
+PUSHW_1
+ -128
+NPUSHB
+ 9
+ 52
+ 69
+ 72
+ 31
+ 34
+ 44
+ 53
+ 56
+ 53
+PUSHW_1
+ -512
+NPUSHB
+ 59
+ 49
+ 59
+ 72
+ 97
+ 53
+ 1
+ 64
+ 53
+ 80
+ 53
+ 2
+ 33
+ 53
+ 49
+ 53
+ 2
+ 16
+ 53
+ 1
+ 1
+ 53
+ 1
+ 225
+ 53
+ 241
+ 53
+ 2
+ 178
+ 53
+ 194
+ 53
+ 210
+ 53
+ 3
+ 147
+ 53
+ 163
+ 53
+ 2
+ 130
+ 53
+ 1
+ 99
+ 53
+ 115
+ 53
+ 2
+ 84
+ 53
+ 1
+ 67
+ 53
+ 1
+ 0
+ 146
+ 53
+ 1
+ 1
+ 53
+PUSHW_1
+ -128
+NPUSHB
+ 18
+ 14
+ 18
+ 72
+ 51
+ 53
+ 1
+ 2
+ 16
+ 53
+ 32
+ 53
+ 2
+ 8
+ 53
+ 1
+ 3
+ 53
+ 34
+PUSHW_1
+ -256
+NPUSHB
+ 22
+ 24
+ 29
+ 72
+ 181
+ 34
+ 197
+ 34
+ 213
+ 34
+ 3
+ 166
+ 34
+ 1
+ 34
+ 88
+ 51
+ 1
+ 51
+ 221
+ 44
+ 1
+ 44
+PUSHW_1
+ 320
+NPUSHB
+ 12
+ 32
+ 38
+ 72
+ 75
+ 44
+ 91
+ 44
+ 2
+ 60
+ 44
+ 1
+ 44
+PUSHW_1
+ 256
+NPUSHB
+ 28
+ 23
+ 28
+ 72
+ 170
+ 44
+ 186
+ 44
+ 202
+ 44
+ 3
+ 44
+ 128
+ 16
+ 19
+ 72
+ 90
+ 44
+ 1
+ 73
+ 44
+ 1
+ 44
+ 64
+ 10
+ 13
+ 72
+ 44
+ 31
+PUSHW_1
+ 512
+PUSHB_8
+ 50
+ 69
+ 72
+ 31
+ 49
+ 49
+ 38
+ 52
+PUSHW_1
+ 512
+PUSHB_4
+ 48
+ 59
+ 72
+ 52
+PUSHW_1
+ 448
+PUSHB_4
+ 44
+ 47
+ 72
+ 52
+PUSHW_1
+ 384
+NPUSHB
+ 51
+ 35
+ 43
+ 72
+ 124
+ 52
+ 140
+ 52
+ 2
+ 107
+ 52
+ 1
+ 92
+ 52
+ 1
+ 75
+ 52
+ 1
+ 52
+ 128
+ 16
+ 19
+ 72
+ 90
+ 52
+ 1
+ 52
+ 64
+ 10
+ 14
+ 72
+ 52
+ 27
+ 35
+ 43
+ 35
+ 59
+ 35
+ 3
+ 35
+ 192
+ 20
+ 26
+ 72
+ 35
+ 87
+ 41
+ 1
+ 41
+ 43
+ 91
+ 45
+PUSHW_1
+ -384
+PUSHB_4
+ 36
+ 39
+ 72
+ 45
+PUSHW_1
+ -320
+PUSHB_4
+ 30
+ 35
+ 72
+ 45
+PUSHW_1
+ -256
+PUSHB_4
+ 26
+ 29
+ 72
+ 45
+PUSHW_1
+ -192
+PUSHB_4
+ 17
+ 25
+ 72
+ 45
+PUSHW_1
+ -128
+NPUSHB
+ 13
+ 13
+ 16
+ 72
+ 7
+ 45
+ 23
+ 45
+ 39
+ 45
+ 3
+ 10
+ 45
+ 30
+PUSHW_1
+ -512
+NPUSHB
+ 174
+ 50
+ 69
+ 72
+ 30
+ 8
+ 36
+ 1
+ 15
+ 36
+ 38
+ 89
+ 32
+ 25
+ 64
+ 25
+ 80
+ 25
+ 96
+ 25
+ 128
+ 25
+ 160
+ 25
+ 6
+ 23
+ 25
+ 1
+ 0
+ 25
+ 1
+ 59
+ 192
+ 25
+ 224
+ 25
+ 2
+ 177
+ 25
+ 1
+ 96
+ 25
+ 128
+ 25
+ 160
+ 25
+ 3
+ 1
+ 25
+ 17
+ 25
+ 33
+ 25
+ 65
+ 25
+ 4
+ 225
+ 25
+ 1
+ 162
+ 25
+ 194
+ 25
+ 2
+ 131
+ 25
+ 1
+ 114
+ 25
+ 1
+ 99
+ 25
+ 1
+ 4
+ 25
+ 36
+ 25
+ 68
+ 25
+ 3
+ 165
+ 25
+ 197
+ 25
+ 213
+ 25
+ 229
+ 25
+ 4
+ 102
+ 25
+ 134
+ 25
+ 2
+ 71
+ 25
+ 1
+ 54
+ 25
+ 1
+ 7
+ 25
+ 1
+ 11
+ 25
+ 32
+ 6
+ 1
+ 7
+ 6
+ 1
+ 60
+ 214
+ 6
+ 1
+ 128
+ 6
+ 1
+ 119
+ 6
+ 1
+ 225
+ 6
+ 1
+ 67
+ 6
+ 1
+ 165
+ 6
+ 1
+ 7
+ 6
+ 1
+ 12
+ 6
+ 105
+ 23
+ 153
+ 23
+ 2
+ 8
+ 23
+ 1
+ 51
+ 23
+ 31
+ 16
+ 47
+ 16
+ 63
+ 16
+ 127
+ 16
+ 4
+ 8
+ 16
+ 1
+ 60
+ 175
+ 16
+ 239
+ 16
+ 2
+ 158
+ 16
+ 1
+ 79
+ 16
+ 143
+ 16
+ 2
+ 13
+ 16
+ 1
+ 16
+PUSHW_1
+ 352
+NPUSHB
+ 255
+ 42
+ 73
+ 76
+ 16
+ 92
+ 16
+ 108
+ 16
+ 172
+ 16
+ 236
+ 16
+ 5
+ 11
+ 16
+ 1
+ 203
+ 16
+ 1
+ 170
+ 16
+ 186
+ 16
+ 2
+ 25
+ 16
+ 41
+ 16
+ 105
+ 16
+ 3
+ 8
+ 16
+ 1
+ 11
+ 16
+ 15
+ 3
+ 31
+ 3
+ 2
+ 65
+ 216
+ 3
+ 1
+ 143
+ 3
+ 159
+ 3
+ 2
+ 253
+ 3
+ 1
+ 238
+ 3
+ 1
+ 76
+ 3
+ 92
+ 3
+ 2
+ 187
+ 3
+ 1
+ 170
+ 3
+ 1
+ 9
+ 3
+ 25
+ 3
+ 2
+ 15
+ 3
+ 23
+ 21
+ 1
+ 21
+ 21
+ 10
+ 15
+ 24
+ 47
+ 24
+ 79
+ 24
+ 95
+ 24
+ 111
+ 24
+ 143
+ 24
+ 175
+ 24
+ 7
+ 59
+ 191
+ 24
+ 207
+ 24
+ 239
+ 24
+ 3
+ 174
+ 24
+ 1
+ 79
+ 24
+ 111
+ 24
+ 143
+ 24
+ 3
+ 14
+ 24
+ 30
+ 24
+ 46
+ 24
+ 3
+ 141
+ 24
+ 173
+ 24
+ 205
+ 24
+ 237
+ 24
+ 4
+ 76
+ 24
+ 108
+ 24
+ 124
+ 24
+ 3
+ 11
+ 24
+ 43
+ 24
+ 2
+ 219
+ 24
+ 235
+ 24
+ 2
+ 138
+ 24
+ 170
+ 24
+ 202
+ 24
+ 3
+ 73
+ 24
+ 105
+ 24
+ 2
+ 56
+ 24
+ 1
+ 41
+ 24
+ 1
+ 8
+ 24
+ 1
+ 11
+ 24
+ 15
+ 7
+ 1
+ 62
+ 217
+ 7
+ 1
+ 142
+ 7
+ 1
+ 120
+ 7
+ 1
+ 237
+ 7
+ 1
+ 75
+ 7
+ 1
+ 170
+ 7
+ 1
+ 8
+ 7
+ 1
+ 12
+ 7
+ 102
+ 13
+ 1
+ 7
+ 13
+ 1
+ 51
+ 13
+ 15
+ 91
+ 0
+ 17
+ 16
+ 17
+ 32
+ 17
+ 96
+ 17
+ 4
+ 61
+ 128
+ 17
+ 144
+ 17
+ 160
+ 17
+ 224
+ 17
+ 4
+ 1
+ 17
+ 65
+ 17
+ 2
+ 225
+ 17
+ 241
+ 17
+ 2
+ 162
+ 17
+ 1
+ 83
+ 17
+ 99
+ 17
+ 2
+ 4
+ 17
+ 68
+ 17
+ 2
+ 101
+ 17
+ 165
+ 17
+ 181
+ 17
+ 197
+NPUSHB
+ 57
+ 17
+ 4
+ 7
+ 17
+ 23
+ 17
+ 39
+ 17
+ 3
+ 11
+ 17
+ 0
+ 2
+ 16
+ 2
+ 2
+ 65
+ 224
+ 2
+ 240
+ 2
+ 2
+ 167
+ 2
+ 1
+ 80
+ 2
+ 1
+ 65
+ 2
+ 1
+ 178
+ 2
+ 1
+ 163
+ 2
+ 1
+ 0
+ 0
+ 2
+ 16
+ 2
+ 2
+ 1
+ 96
+ 2
+ 112
+ 2
+ 2
+ 2
+ 2
+ 175
+ 8
+ 1
+ 8
+ 10
+ 89
+SVTCA[y-axis]
+MIAP[rnd]
+MDRP[min,rnd,black]
+DELTAP3
+SHP[rp2]
+SDS
+DELTAP1
+SDS
+DELTAP2
+SDS
+DELTAP2
+DELTAP2
+DELTAP3
+DELTAP3
+DELTAP3
+DELTAP3
+SDB
+DELTAP1
+SHP[rp2]
+SDB
+DELTAP1
+DELTAP1
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP3
+DELTAP3
+SDB
+DELTAP1
+MIAP[rnd]
+MDRP[min,rnd,black]
+SDB
+DELTAP1
+DELTAP1
+SHP[rp2]
+SDB
+DELTAP1
+DELTAP1
+DELTAP2
+DELTAP2
+DELTAP3
+DELTAP3
+DELTAP3
+SDB
+DELTAP1
+SHP[rp2]
+SDB
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP3
+DELTAP3
+DELTAP3
+DELTAP3
+SDB
+DELTAP1
+SRP2
+IP
+MDAP[rnd]
+DELTAP1
+SHP[rp1]
+SDB
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP3
+DELTAP3
+SDB
+DELTAP1
+SHP[rp1]
+SDB
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP2
+DELTAP2
+CALL
+DELTAP3
+DELTAP3
+DELTAP3
+DELTAP3
+SDB
+DELTAP1
+DELTAP1
+MDRP[min,rnd,black]
+SDB
+DELTAP1
+DELTAP1
+SHP[rp2]
+SDB
+DELTAP1
+DELTAP1
+DELTAP2
+DELTAP2
+DELTAP3
+DELTAP3
+DELTAP3
+SDB
+DELTAP1
+DELTAP1
+SHP[rp2]
+SDB
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP3
+DELTAP3
+DELTAP3
+DELTAP3
+SDB
+DELTAP1
+DELTAP1
+DELTAP1
+MIAP[rnd]
+MDRP[min,rnd,black]
+SDB
+DELTAP1
+SHP[rp2]
+CALL
+SHP[rp2]
+SDB
+DELTAP1
+CALL
+CALL
+CALL
+CALL
+CALL
+MIAP[rnd]
+MDRP[min,rnd,black]
+DELTAP1
+SHP[rp2]
+CALL
+DELTAP2
+SHP[rp2]
+CALL
+DELTAP1
+CALL
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP2
+CALL
+CALL
+CALL
+SRP2
+IP
+MDAP[rnd]
+SHP[rp1]
+CALL
+SHP[rp1]
+CALL
+DELTAP1
+DELTAP1
+CALL
+DELTAP1
+CALL
+DELTAP2
+DELTAP2
+CALL
+DELTAP2
+MDRP[min,rnd,black]
+DELTAP1
+SHP[rp2]
+DELTAP1
+DELTAP1
+CALL
+SHP[rp2]
+SDS
+DELTAP1
+DELTAP1
+SDS
+DELTAP1
+CALL
+SDS
+DELTAP1
+SDS
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP3
+DELTAP3
+DELTAP3
+DELTAP3
+DELTAP3
+CALL
+SVTCA[x-axis]
+SRP0
+MDRP[rp0,min,rnd,grey]
+SHP[rp2]
+MDRP[rp0,min,rnd,grey]
+SHP[rp2]
+CALL
+MDRP[rp0,min,rnd,white]
+SHP[rp2]
+MDRP[rp0,min,rnd,grey]
+SHP[rp2]
+DELTAP3
+MDRP[min,rnd,grey]
+MDRP[min,rnd,black]
+SHP[rp2]
+SHP[rp2]
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP3
+DELTAP3
+SDB
+DELTAP1
+SHP[rp2]
+SDB
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP3
+DELTAP3
+SDB
+DELTAP1
+SHP[rp2]
+SDB
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP3
+SDB
+DELTAP1
+SRP0
+MDRP[min,rnd,black]
+SDB
+DELTAP1
+DELTAP1
+SHP[rp2]
+SDB
+DELTAP1
+DELTAP1
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP3
+DELTAP3
+DELTAP3
+SDB
+DELTAP1
+DELTAP1
+SHP[rp2]
+SDB
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP3
+DELTAP3
+SDB
+DELTAP1
+SHP[rp2]
+SDB
+DELTAP1
+SHP[rp2]
+SDB
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP2
+DELTAP3
+DELTAP3
+SDB
+DELTAP1
+DELTAP1
+SRP0
+MDRP[min,rnd,black]
+SDS
+SDB
+DELTAP1
+SHP[rp2]
+SHP[rp2]
+DELTAP1
+CALL
+CALL
+CALL
+SHP[rp2]
+DELTAP1
+CALL
+SDS
+DELTAP2
+DELTAP3
+DELTAP3
+DELTAP3
+CALL
+SHP[rp2]
+DELTAP1
+CALL
+SRP0
+MDRP[min,rnd,black]
+DELTAP1
+CALL
+SHP[rp2]
+DELTAP1
+CALL
+DELTAP1
+DELTAP1
+DELTAP2
+DELTAP3
+DELTAP3
+DELTAP3
+DELTAP3
+DELTAP3
+CALL
+SHP[rp2]
+CALL
+CALL
+DELTAP1
+DELTAP1
+CALL
+DELTAP3
+DELTAP3
+DELTAP3
+DELTAP3
+SHP[rp2]
+CALL
+SHP[rp2]
+DELTAP1
+CALL
+DELTAP1
+DELTAP1
+IUP[x]
+IUP[y]
+SVTCA[y-axis]
+SDB
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+CALL
+SDB
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SVTCA[x-axis]
+SDB
+DELTAP1
+DELTAP1
+SDB
+DELTAP1
+DELTAP1
+SDB
+DELTAP1
+DELTAP1
+SDB
+DELTAP1
+SDB
+DELTAP1
+SDB
+DELTAP1
+SDB
+DELTAP1
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+636 363 m 1,0,-1
+ 636 661 l 1,1,-1
+ 665 661 l 1,2,-1
+ 665 363 l 1,3,-1
+ 636 363 l 1,0,-1
+636 31 m 1,4,-1
+ 636 329 l 1,5,-1
+ 665 329 l 1,6,-1
+ 665 31 l 1,7,-1
+ 636 31 l 1,4,-1
+328 664 m 1,8,-1
+ 328 692 l 1,9,-1
+ 636 692 l 1,10,-1
+ 636 664 l 1,11,-1
+ 328 664 l 1,8,-1
+328 0 m 1,12,-1
+ 328 29 l 1,13,-1
+ 636 29 l 1,14,-1
+ 636 0 l 1,15,-1
+ 328 0 l 1,12,-1
+299 363 m 1,16,-1
+ 299 661 l 1,17,-1
+ 328 661 l 1,18,-1
+ 328 363 l 1,19,-1
+ 299 363 l 1,16,-1
+328 332 m 1,20,-1
+ 328 361 l 1,21,-1
+ 636 361 l 1,22,-1
+ 636 332 l 1,23,-1
+ 328 332 l 1,20,-1
+299 31 m 1,24,-1
+ 299 329 l 1,25,-1
+ 328 329 l 1,26,-1
+ 328 31 l 1,27,-1
+ 299 31 l 1,24,-1
+173 363 m 1,28,-1
+ 173 661 l 1,29,-1
+ 201 661 l 1,30,-1
+ 201 363 l 1,31,-1
+ 173 363 l 1,28,-1
+173 31 m 1,32,-1
+ 173 329 l 1,33,-1
+ 201 329 l 1,34,-1
+ 201 31 l 1,35,-1
+ 173 31 l 1,32,-1
+-136 664 m 1,36,-1
+ -136 692 l 1,37,-1
+ 173 692 l 1,38,-1
+ 173 664 l 1,39,-1
+ -136 664 l 1,36,-1
+-136 0 m 1,40,-1
+ -136 29 l 1,41,-1
+ 173 29 l 1,42,-1
+ 173 0 l 1,43,-1
+ -136 0 l 1,40,-1
+-165 363 m 1,44,-1
+ -165 661 l 1,45,-1
+ -136 661 l 1,46,-1
+ -136 363 l 1,47,-1
+ -165 363 l 1,44,-1
+-136 332 m 1,48,-1
+ -136 361 l 1,49,-1
+ 173 361 l 1,50,-1
+ 173 332 l 1,51,-1
+ -136 332 l 1,48,-1
+-165 31 m 1,52,-1
+ -165 329 l 1,53,-1
+ -136 329 l 1,54,-1
+ -136 31 l 1,55,-1
+ -165 31 l 1,52,-1
+EndSplineSet
+Validated: 1
+EndChar

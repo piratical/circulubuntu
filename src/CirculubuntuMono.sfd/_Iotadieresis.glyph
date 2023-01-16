@@ -1,0 +1,35 @@
+StartChar: Iotadieresis
+Encoding: 938 938 961
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 16
+ 2
+ 1
+ 0
+ 14
+ 32
+ 4
+ 2
+ 80
+ 2
+ 9
+ 24
+ 79
+ 1
+ 9
+ 12
+ 79
+CALL
+CALL
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 3
+Refer: 131 168 N 1 0 0 1 0 139 2
+Validated: 1
+EndChar

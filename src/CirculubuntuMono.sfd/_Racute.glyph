@@ -1,0 +1,29 @@
+StartChar: Racute
+Encoding: 340 340 304
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 2
+ -5
+NPUSHB
+ 9
+ 44
+ 42
+ 18
+ 8
+ 80
+ 2
+ 23
+ 43
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 53 82 N 1 0 0 1 0 0 3
+Refer: 143 180 N 1 0 0 1 0 137 2
+Validated: 1
+EndChar

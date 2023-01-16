@@ -1,0 +1,29 @@
+StartChar: uni1F9E.alt
+Encoding: 1114167 -1 1227
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_3
+ 3
+ 2
+ 1
+PUSHW_1
+ -187
+PUSHB_5
+ 43
+ 53
+ 7
+ 1
+ 80
+CALL
+SHC[rp2]
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 43 72 N 1 0 0 1 0 0 3
+Refer: 1171 8143 N 1 0 0 1 -361 -95 2
+Refer: 1155 8126 N 1 0 0 1 27 0 2
+Validated: 1
+EndChar

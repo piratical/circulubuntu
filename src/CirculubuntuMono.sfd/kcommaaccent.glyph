@@ -1,0 +1,24 @@
+StartChar: kcommaaccent
+Encoding: 311 311 275
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -46
+PUSHB_5
+ 32
+ 26
+ 13
+ 5
+ 80
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 78 107 N 1 0 0 1 0 0 3
+Refer: 451 -1 N 1 0 0 1 -17 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Kcommaaccent
+EndChar

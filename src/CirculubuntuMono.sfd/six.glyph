@@ -1,0 +1,242 @@
+StartChar: six
+Encoding: 54 54 25
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 36
+ -16
+NPUSHB
+ 19
+ 14
+ 0
+ 77
+ 26
+ 24
+ 8
+ 0
+ 77
+ 25
+ 32
+ 16
+ 0
+ 77
+ 25
+ 40
+ 15
+ 0
+ 77
+ 22
+PUSHW_1
+ -40
+PUSHB_5
+ 15
+ 16
+ 0
+ 76
+ 21
+PUSHW_1
+ -24
+PUSHB_4
+ 16
+ 0
+ 77
+ 21
+PUSHW_1
+ -16
+PUSHB_4
+ 15
+ 0
+ 77
+ 21
+PUSHW_1
+ -24
+PUSHB_4
+ 8
+ 0
+ 77
+ 17
+PUSHW_1
+ -24
+PUSHB_4
+ 11
+ 0
+ 77
+ 17
+PUSHW_1
+ -24
+PUSHB_4
+ 9
+ 0
+ 77
+ 17
+PUSHW_1
+ -40
+PUSHB_4
+ 8
+ 0
+ 77
+ 16
+PUSHW_1
+ -40
+PUSHB_4
+ 18
+ 0
+ 77
+ 16
+PUSHW_1
+ -64
+PUSHB_4
+ 17
+ 0
+ 77
+ 16
+PUSHW_1
+ -24
+PUSHB_4
+ 12
+ 0
+ 77
+ 8
+PUSHW_1
+ -24
+PUSHB_5
+ 13
+ 14
+ 0
+ 76
+ 4
+PUSHW_1
+ -32
+NPUSHB
+ 38
+ 14
+ 0
+ 77
+ 3
+ 32
+ 16
+ 0
+ 77
+ 43
+ 140
+ 19
+ 6
+ 6
+ 19
+ 47
+ 11
+ 33
+ 140
+ 16
+ 0
+ 1
+ 0
+ 46
+ 30
+ 27
+ 143
+ 11
+ 14
+ 14
+ 5
+ 38
+ 143
+ 24
+ 87
+ 6
+ 143
+ 5
+ 86
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SRP1
+IP
+MDAP[rnd]
+SHP[rp1]
+MIRP[min,rnd,black]
+SHP[rp2]
+SVTCA[x-axis]
+SRP0
+MDRP[rp0,rnd,white]
+DELTAP1
+MIRP[min,rnd,black]
+SHP[rp2]
+SRP0
+MDRP[min,rnd,white]
+SHP[rp2]
+MDAP[rnd]
+SRP0
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+54 248 m 0,0,1
+ 54 338 54 338 78.5 407.5 c 128,-1,2
+ 103 477 103 477 148.5 524 c 128,-1,3
+ 194 571 194 571 259 596 c 128,-1,4
+ 324 621 324 621 406 622 c 1,5,-1
+ 413 552 l 1,6,7
+ 360 551 360 551 316.5 540.5 c 128,-1,8
+ 273 530 273 530 239 506.5 c 128,-1,9
+ 205 483 205 483 182 446 c 128,-1,10
+ 159 409 159 409 147 355 c 1,11,12
+ 171 366 171 366 199.5 373 c 128,-1,13
+ 228 380 228 380 260 380 c 0,14,15
+ 312 380 312 380 348.5 364 c 128,-1,16
+ 385 348 385 348 407 321.5 c 128,-1,17
+ 429 295 429 295 439 260 c 128,-1,18
+ 449 225 449 225 449 188 c 0,19,20
+ 449 154 449 154 438 118.5 c 128,-1,21
+ 427 83 427 83 404 53.5 c 128,-1,22
+ 381 24 381 24 345 5.5 c 128,-1,23
+ 309 -13 309 -13 259 -13 c 0,24,25
+ 156 -13 156 -13 105 56 c 128,-1,26
+ 54 125 54 125 54 248 c 0,0,1
+251 312 m 0,27,28
+ 219 312 219 312 192.5 306 c 128,-1,29
+ 166 300 166 300 139 288 c 1,30,31
+ 138 278 138 278 138 268.5 c 128,-1,32
+ 138 259 138 259 138 248 c 0,33,34
+ 138 209 138 209 143.5 174.5 c 128,-1,35
+ 149 140 149 140 162.5 113.5 c 128,-1,36
+ 176 87 176 87 199 71.5 c 128,-1,37
+ 222 56 222 56 258 56 c 0,38,39
+ 288 56 288 56 308 68.5 c 128,-1,40
+ 328 81 328 81 341 100 c 128,-1,41
+ 354 119 354 119 359.5 142.5 c 128,-1,42
+ 365 166 365 166 365 187 c 0,43,44
+ 365 248 365 248 337.5 280 c 128,-1,45
+ 310 312 310 312 251 312 c 0,27,28
+EndSplineSet
+Validated: 1
+Substitution2: "'ss02' Style Set 2 lookup 15 subtable" sixsuperior
+Substitution2: "'sinf' Scientific Inferiors lookup 11 subtable" six.sinf
+Substitution2: "'subs' Subscript lookup 10 subtable" six.sinf
+Substitution2: "'sups' Superscript lookup 9 subtable" six.sups
+Substitution2: "'dnom' Denominators lookup 8 subtable" sixinferior
+Substitution2: "'numr' Numerators lookup 6 subtable" sixsuperior
+EndChar

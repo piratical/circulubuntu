@@ -1,0 +1,14 @@
+StartChar: five.sups
+Encoding: 63503 63503 435
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+Refer: 369 8309 N 1 0 0 1 -8 107 3
+Validated: 1
+Substitution2: "'ss02' Style Set 2 lookup 15 subtable" fivesuperior
+Substitution2: "'sinf' Scientific Inferiors lookup 11 subtable" five.sinf
+Substitution2: "'subs' Subscript lookup 10 subtable" five.sinf
+Substitution2: "'dnom' Denominators lookup 8 subtable" fiveinferior
+Substitution2: "'numr' Numerators lookup 6 subtable" fivesuperior
+EndChar

@@ -1,0 +1,254 @@
+StartChar: twosuperior
+Encoding: 178 178 141
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 32
+ -24
+PUSHB_4
+ 20
+ 0
+ 77
+ 32
+PUSHW_1
+ -16
+PUSHB_4
+ 19
+ 0
+ 77
+ 32
+PUSHW_1
+ -24
+PUSHB_4
+ 18
+ 0
+ 77
+ 32
+PUSHW_1
+ -32
+PUSHB_4
+ 17
+ 0
+ 77
+ 32
+PUSHW_1
+ -40
+PUSHB_4
+ 16
+ 0
+ 77
+ 32
+PUSHW_1
+ -32
+PUSHB_4
+ 15
+ 0
+ 77
+ 32
+PUSHW_1
+ -40
+PUSHB_5
+ 12
+ 14
+ 0
+ 76
+ 32
+PUSHW_1
+ -48
+NPUSHB
+ 39
+ 11
+ 0
+ 77
+ 28
+ 16
+ 15
+ 0
+ 77
+ 16
+ 16
+ 18
+ 0
+ 77
+ 15
+ 24
+ 19
+ 0
+ 77
+ 15
+ 16
+ 17
+ 0
+ 77
+ 14
+ 32
+ 19
+ 0
+ 77
+ 14
+ 24
+ 18
+ 0
+ 77
+ 13
+ 16
+ 17
+ 0
+ 77
+ 18
+PUSHW_1
+ -32
+PUSHB_4
+ 26
+ 0
+ 77
+ 17
+PUSHW_1
+ -32
+PUSHB_4
+ 27
+ 0
+ 77
+ 16
+PUSHW_1
+ -16
+PUSHB_4
+ 26
+ 0
+ 77
+ 15
+PUSHW_1
+ -32
+PUSHB_4
+ 27
+ 0
+ 77
+ 14
+PUSHW_1
+ -24
+NPUSHB
+ 40
+ 26
+ 0
+ 77
+ 4
+ 32
+ 25
+ 0
+ 77
+ 3
+ 32
+ 25
+ 0
+ 77
+ 2
+ 24
+ 25
+ 0
+ 77
+ 19
+ 150
+ 0
+ 9
+ 9
+ 0
+ 11
+ 27
+ 27
+ 8
+ 150
+ 11
+ 26
+ 26
+ 21
+ 152
+ 30
+ 90
+ 8
+ 152
+ 11
+ 95
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+SVTCA[x-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+SHP[rp1]
+MDAP[rnd]
+SRP0
+MDRP[min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+SRP0
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+SVTCA[y-axis]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+362 534 m 0,0,1
+ 362 515 362 515 353.5 497.5 c 128,-1,2
+ 345 480 345 480 330.5 462.5 c 128,-1,3
+ 316 445 316 445 297 427 c 128,-1,4
+ 278 409 278 409 257 391 c 0,5,6
+ 242 378 242 378 227 363.5 c 128,-1,7
+ 212 349 212 349 210 338 c 1,8,-1
+ 376 338 l 1,9,-1
+ 376 281 l 1,10,-1
+ 138 281 l 1,11,12
+ 135 311 135 311 142 333.5 c 128,-1,13
+ 149 356 149 356 162 375 c 128,-1,14
+ 175 394 175 394 192.5 409.5 c 128,-1,15
+ 210 425 210 425 228 441 c 0,16,17
+ 258 467 258 467 277 489 c 128,-1,18
+ 296 511 296 511 296 532 c 0,19,20
+ 296 577 296 577 241 577 c 0,21,22
+ 226 577 226 577 212.5 573 c 128,-1,23
+ 199 569 199 569 188 563.5 c 128,-1,24
+ 177 558 177 558 169 552 c 128,-1,25
+ 161 546 161 546 156 542 c 1,26,-1
+ 124 586 l 1,27,28
+ 140 602 140 602 170.5 617.5 c 128,-1,29
+ 201 633 201 633 241 633 c 0,30,31
+ 303 633 303 633 332.5 607.5 c 128,-1,32
+ 362 582 362 582 362 534 c 0,0,1
+EndSplineSet
+Validated: 33
+Substitution2: "Single Substitution lookup 22 subtable" twoinferior
+Substitution2: "'sinf' Scientific Inferiors lookup 11 subtable" two.sinf
+Substitution2: "'subs' Subscript lookup 10 subtable" two.sinf
+Substitution2: "'sups' Superscript lookup 9 subtable" two.sups
+Substitution2: "'dnom' Denominators lookup 8 subtable" twoinferior
+EndChar

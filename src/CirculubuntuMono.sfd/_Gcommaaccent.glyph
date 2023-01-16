@@ -1,0 +1,22 @@
+StartChar: Gcommaaccent
+Encoding: 290 290 253
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_7
+ 1
+ 13
+ 47
+ 41
+ 9
+ 1
+ 80
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 42 71 N 1 0 0 1 0 0 3
+Refer: 451 -1 N 1 0 0 1 18 0 2
+Validated: 1
+EndChar

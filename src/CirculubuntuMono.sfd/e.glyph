@@ -1,0 +1,233 @@
+StartChar: e
+Encoding: 101 101 72
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 30
+ -40
+PUSHB_5
+ 15
+ 16
+ 0
+ 76
+ 30
+PUSHW_1
+ -32
+NPUSHB
+ 14
+ 14
+ 0
+ 77
+ 27
+ 24
+ 16
+ 0
+ 77
+ 27
+ 16
+ 15
+ 0
+ 77
+ 22
+PUSHW_1
+ -24
+PUSHB_4
+ 16
+ 0
+ 77
+ 22
+PUSHW_1
+ -16
+NPUSHB
+ 9
+ 15
+ 0
+ 77
+ 22
+ 16
+ 8
+ 0
+ 77
+ 18
+PUSHW_1
+ -16
+PUSHB_4
+ 15
+ 0
+ 77
+ 17
+PUSHW_1
+ -32
+PUSHB_4
+ 15
+ 0
+ 77
+ 7
+PUSHW_1
+ -24
+PUSHB_4
+ 16
+ 0
+ 77
+ 7
+PUSHW_1
+ -48
+PUSHB_4
+ 15
+ 0
+ 77
+ 7
+PUSHW_1
+ -32
+PUSHB_5
+ 13
+ 14
+ 0
+ 76
+ 2
+PUSHW_1
+ -24
+PUSHB_4
+ 9
+ 0
+ 77
+ 2
+PUSHW_1
+ -32
+PUSHB_4
+ 8
+ 0
+ 77
+ 1
+PUSHW_1
+ -40
+PUSHB_4
+ 18
+ 0
+ 77
+ 1
+PUSHW_1
+ -48
+PUSHB_4
+ 17
+ 0
+ 77
+ 1
+PUSHW_1
+ -16
+NPUSHB
+ 35
+ 10
+ 0
+ 77
+ 25
+ 130
+ 4
+ 12
+ 12
+ 4
+ 35
+ 33
+ 5
+ 130
+ 20
+ 64
+ 9
+ 12
+ 72
+ 20
+ 34
+ 5
+ 134
+ 33
+ 33
+ 0
+ 11
+ 11
+ 8
+ 136
+ 15
+ 81
+ 28
+ 136
+ 0
+ 80
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+SRP1
+IP
+MDAP[rnd]
+MIRP[min,rnd,black]
+SVTCA[x-axis]
+SRP0
+MDRP[rp0,rnd,white]
+CALL
+MIRP[min,rnd,black]
+SHP[rp2]
+SRP0
+MDRP[min,rnd,white]
+SHP[rp2]
+MDAP[rnd]
+SRP0
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+259 475 m 0,0,1
+ 353 475 353 475 404 416.5 c 128,-1,2
+ 455 358 455 358 455 239 c 2,3,-1
+ 455 210 l 1,4,-1
+ 123 210 l 1,5,6
+ 128 138 128 138 170.5 100.5 c 128,-1,7
+ 213 63 213 63 290 63 c 0,8,9
+ 334 63 334 63 365 70 c 128,-1,10
+ 396 77 396 77 412 85 c 1,11,-1
+ 423 15 l 1,12,13
+ 408 7 408 7 369 -2 c 128,-1,14
+ 330 -11 330 -11 281 -11 c 0,15,16
+ 221 -11 221 -11 175.5 7.5 c 128,-1,17
+ 130 26 130 26 100 58 c 128,-1,18
+ 70 90 70 90 55 134.5 c 128,-1,19
+ 40 179 40 179 40 231 c 0,20,21
+ 40 293 40 293 59 339 c 128,-1,22
+ 78 385 78 385 109 415 c 128,-1,23
+ 140 445 140 445 179 460 c 128,-1,24
+ 218 475 218 475 259 475 c 0,0,1
+371 277 m 1,25,26
+ 371 336 371 336 340 370.5 c 128,-1,27
+ 309 405 309 405 258 405 c 0,28,29
+ 229 405 229 405 205.5 394 c 128,-1,30
+ 182 383 182 383 165 365 c 128,-1,31
+ 148 347 148 347 138 324 c 128,-1,32
+ 128 301 128 301 125 277 c 1,33,-1
+ 371 277 l 1,25,26
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" E
+EndChar

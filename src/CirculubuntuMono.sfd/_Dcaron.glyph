@@ -1,0 +1,29 @@
+StartChar: Dcaron
+Encoding: 270 270 233
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 2
+ -42
+NPUSHB
+ 9
+ 29
+ 33
+ 7
+ 0
+ 80
+ 2
+ 9
+ 34
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 39 68 N 1 0 0 1 0 0 3
+Refer: 351 711 N 1 0 0 1 -35 139 2
+Validated: 1
+EndChar

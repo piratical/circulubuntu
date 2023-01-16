@@ -1,0 +1,28 @@
+StartChar: Zacute
+Encoding: 377 377 338
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 8
+ 20
+ 18
+ 8
+ 6
+ 80
+ 1
+ 16
+ 19
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 61 90 N 1 0 0 1 0 0 3
+Refer: 143 180 N 1 0 0 1 9 137 2
+Validated: 1
+EndChar

@@ -1,0 +1,44 @@
+StartChar: kratka
+Encoding: 1114151 -1 907
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_8
+ 11
+ 10
+ 3
+ 4
+ 10
+ 4
+ 7
+ 0
+SVTCA[y-axis]
+MDAP[rnd]
+MDRP[rp0,min,rnd,black]
+MDRP[min,rnd,white]
+SHP[rp2]
+SVTCA[x-axis]
+MDAP[rnd]
+MDRP[min,rnd,black]
+MDRP[rp0,min,rnd,white]
+MDRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+250 539 m 256,0,1
+ 194 539 194 539 159 567.5 c 128,-1,2
+ 124 596 124 596 116 647 c 1,3,-1
+ 179 664 l 1,4,5
+ 187 635 187 635 204 617.5 c 128,-1,6
+ 221 600 221 600 250 600 c 256,7,8
+ 279 600 279 600 296 617.5 c 128,-1,9
+ 313 635 313 635 321 664 c 1,10,-1
+ 383 647 l 1,11,12
+ 375 596 375 596 340.5 567.5 c 128,-1,13
+ 306 539 306 539 250 539 c 256,0,1
+EndSplineSet
+Validated: 1
+EndChar

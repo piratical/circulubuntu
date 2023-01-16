@@ -1,0 +1,23 @@
+StartChar: uni1FBA
+Encoding: 8122 8122 1151
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 2
+ -231
+PUSHB_5
+ 26
+ 24
+ 4
+ 15
+ 80
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 36 65 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 -228 -63 2
+Validated: 1
+EndChar

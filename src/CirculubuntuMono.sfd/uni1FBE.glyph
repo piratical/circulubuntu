@@ -1,0 +1,43 @@
+StartChar: uni1FBE
+Encoding: 8126 8126 1155
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_7
+ 5
+ 0
+ 10
+ 7
+ 3
+ 14
+ 15
+SVTCA[y-axis]
+SRP0
+MDRP[rp0,min,rnd,white]
+MDRP[rp0,min,rnd,white]
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+MDAP[rnd]
+MDRP[rp0,min,rnd,black]
+MDRP[min,rnd,grey]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+261 -58 m 2,0,1
+ 261 -87 261 -87 270.5 -101.5 c 128,-1,2
+ 280 -116 280 -116 313 -116 c 2,3,-1
+ 328 -116 l 1,4,-1
+ 328 -164 l 1,5,6
+ 305 -170 305 -170 286 -170 c 0,7,8
+ 240 -170 240 -170 209.5 -146 c 128,-1,9
+ 179 -122 179 -122 179 -65 c 0,10,11
+ 179 -61 179 -61 179.5 -55.5 c 128,-1,12
+ 180 -50 180 -50 181 -45 c 1,13,-1
+ 261 -45 l 1,14,-1
+ 261 -58 l 2,0,1
+EndSplineSet
+Validated: 1
+EndChar

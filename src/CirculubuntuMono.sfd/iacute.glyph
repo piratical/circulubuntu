@@ -1,0 +1,30 @@
+StartChar: iacute
+Encoding: 237 237 200
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -24
+NPUSHB
+ 9
+ 24
+ 22
+ 1
+ 11
+ 80
+ 1
+ 2
+ 23
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 268 305 N 1 0 0 1 0 0 3
+Refer: 143 180 N 1 0 0 1 -26 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Iacute
+EndChar

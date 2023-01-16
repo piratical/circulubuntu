@@ -1,0 +1,299 @@
+StartChar: y
+Encoding: 121 121 92
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 66
+ 25
+ 16
+ 17
+ 0
+ 77
+ 24
+ 16
+ 16
+ 0
+ 77
+ 23
+ 24
+ 18
+ 0
+ 77
+ 23
+ 16
+ 15
+ 0
+ 77
+ 23
+ 24
+ 12
+ 0
+ 77
+ 22
+ 16
+ 12
+ 0
+ 77
+ 18
+ 16
+ 15
+ 0
+ 77
+ 17
+ 24
+ 12
+ 0
+ 77
+ 16
+ 32
+ 18
+ 0
+ 77
+ 16
+ 24
+ 17
+ 0
+ 77
+ 16
+ 32
+ 15
+ 0
+ 77
+ 16
+ 32
+ 12
+ 0
+ 77
+ 15
+ 24
+ 12
+ 0
+ 77
+ 12
+PUSHW_1
+ -24
+NPUSHB
+ 42
+ 17
+ 0
+ 77
+ 7
+ 56
+ 16
+ 0
+ 77
+ 6
+ 24
+ 17
+ 0
+ 77
+ 6
+ 16
+ 15
+ 16
+ 0
+ 76
+ 6
+ 40
+ 12
+ 0
+ 77
+ 6
+ 24
+ 10
+ 11
+ 0
+ 76
+ 5
+ 40
+ 12
+ 0
+ 77
+ 5
+ 32
+ 10
+ 11
+ 0
+ 76
+ 15
+PUSHW_1
+ -48
+PUSHB_4
+ 18
+ 0
+ 77
+ 15
+PUSHW_1
+ -40
+PUSHB_4
+ 17
+ 0
+ 77
+ 15
+PUSHW_1
+ -56
+NPUSHB
+ 60
+ 14
+ 0
+ 77
+ 6
+ 48
+ 18
+ 0
+ 77
+ 24
+ 20
+ 15
+ 20
+ 129
+ 21
+ 24
+ 20
+ 21
+ 21
+ 24
+ 6
+ 10
+ 15
+ 10
+ 129
+ 9
+ 6
+ 20
+ 9
+ 9
+ 6
+ 15
+ 15
+ 9
+ 31
+ 21
+ 1
+ 21
+ 34
+ 32
+ 32
+ 32
+ 9
+ 1
+ 9
+ 33
+ 24
+ 15
+ 6
+ 6
+ 9
+ 3
+ 136
+ 29
+ 75
+ 21
+ 20
+ 73
+ 10
+ 9
+ 73
+SVTCA[y-axis]
+MIAP[rnd]
+SHP[rp1]
+MIAP[rnd]
+SHP[rp1]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SRP2
+IP
+SRP1
+SHP[rp1]
+SHP[rp1]
+SVTCA[x-axis]
+SRP0
+MDRP[rnd,white]
+DELTAP1
+SHP[rp2]
+MDAP[rnd]
+SRP0
+MDRP[min,rnd,white]
+DELTAP1
+SRP1
+IP
+RTDG
+MDAP[rnd]
+SDPVTL[orthog]
+RTG
+SRP0
+CALL
+SDPVTL[orthog]
+RDTG
+MDRP[rnd,grey]
+SDPVTL[orthog]
+RTG
+SRP0
+CALL
+SDPVTL[orthog]
+RDTG
+MDRP[rnd,grey]
+IUP[x]
+IUP[y]
+SVTCA[y-axis]
+CALL
+CALL
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+51 -87 m 1,0,1
+ 60 -92 60 -92 76.5 -95 c 128,-1,2
+ 93 -98 93 -98 107 -98 c 0,3,4
+ 156 -98 156 -98 183.5 -76.5 c 128,-1,5
+ 211 -55 211 -55 234 -6 c 1,6,7
+ 178 100 178 100 129 221.5 c 128,-1,8
+ 80 343 80 343 48 464 c 1,9,-1
+ 138 464 l 1,10,11
+ 148 424 148 424 161.5 377.5 c 128,-1,12
+ 175 331 175 331 192 282 c 128,-1,13
+ 209 233 209 233 228.5 183.5 c 128,-1,14
+ 248 134 248 134 270 89 c 1,15,16
+ 286 135 286 135 300 180 c 128,-1,17
+ 314 225 314 225 326 270.5 c 128,-1,18
+ 338 316 338 316 350 363.5 c 128,-1,19
+ 362 411 362 411 375 464 c 1,20,-1
+ 461 464 l 1,21,22
+ 429 334 429 334 389.5 212 c 128,-1,23
+ 350 90 350 90 305 -14 c 0,24,25
+ 288 -54 288 -54 268.5 -83 c 128,-1,26
+ 249 -112 249 -112 226 -131 c 128,-1,27
+ 203 -150 203 -150 174 -159 c 128,-1,28
+ 145 -168 145 -168 108 -168 c 0,29,30
+ 89 -168 89 -168 66.5 -163 c 128,-1,31
+ 44 -158 44 -158 36 -154 c 1,32,-1
+ 51 -87 l 1,0,1
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Y
+EndChar

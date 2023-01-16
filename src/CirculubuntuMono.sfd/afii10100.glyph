@@ -1,0 +1,28 @@
+StartChar: afii10100
+Encoding: 1107 1107 771
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 34
+ 8
+ 6
+ 0
+ 2
+ 80
+ 1
+ 1
+ 7
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 739 1075 N 1 0 0 1 0 0 3
+Refer: 143 180 N 1 0 0 1 54 0 2
+Validated: 1
+EndChar

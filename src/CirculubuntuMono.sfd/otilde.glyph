@@ -1,0 +1,29 @@
+StartChar: otilde
+Encoding: 245 245 208
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 0
+ 46
+ 32
+ 9
+ 0
+ 80
+ 2
+ 14
+ 45
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 82 111 N 1 0 0 1 0 0 3
+Refer: 117 732 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Otilde
+EndChar

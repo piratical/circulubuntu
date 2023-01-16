@@ -1,0 +1,11 @@
+StartChar: uni2215
+Encoding: 8725 8725 416
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+Refer: 366 8260 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "'ss02' Style Set 2 lookup 14 subtable" fraction
+Substitution2: "'frac' Diagonal Fractions lookup 12 subtable" fraction
+EndChar

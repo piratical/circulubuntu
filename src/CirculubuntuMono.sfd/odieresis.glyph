@@ -1,0 +1,36 @@
+StartChar: odieresis
+Encoding: 246 246 209
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 16
+ 3
+ 2
+ 0
+ 34
+ 52
+ 9
+ 0
+ 80
+ 3
+ 14
+ 44
+ 79
+ 2
+ 14
+ 32
+ 79
+CALL
+CALL
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 82 111 N 1 0 0 1 0 0 3
+Refer: 131 168 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Odieresis
+EndChar

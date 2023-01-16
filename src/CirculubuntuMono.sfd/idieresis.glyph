@@ -1,0 +1,38 @@
+StartChar: idieresis
+Encoding: 239 239 202
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_2
+ 2
+ 1
+PUSHW_1
+ -37
+NPUSHB
+ 13
+ 24
+ 42
+ 1
+ 11
+ 80
+ 2
+ 2
+ 34
+ 79
+ 1
+ 2
+ 22
+ 79
+CALL
+CALL
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 268 305 N 1 0 0 1 0 0 3
+Refer: 131 168 N 1 0 0 1 -35 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Idieresis
+EndChar

@@ -1,0 +1,37 @@
+StartChar: iotadieresis
+Encoding: 970 970 970
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_2
+ 2
+ 1
+PUSHW_1
+ -37
+NPUSHB
+ 13
+ 24
+ 42
+ 10
+ 0
+ 80
+ 2
+ 11
+ 34
+ 79
+ 1
+ 11
+ 22
+ 79
+CALL
+CALL
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 940 953 N 1 0 0 1 0 0 3
+Refer: 131 168 N 1 0 0 1 -35 0 2
+Validated: 1
+EndChar

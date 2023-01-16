@@ -1,0 +1,302 @@
+StartChar: seveneighths
+Encoding: 8542 8542 391
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 12
+ 30
+ 32
+ 17
+ 21
+ 0
+ 76
+ 30
+ 24
+ 16
+ 0
+ 77
+ 24
+PUSHW_1
+ -32
+PUSHB_5
+ 17
+ 21
+ 0
+ 76
+ 24
+PUSHW_1
+ -24
+PUSHB_4
+ 16
+ 0
+ 77
+ 20
+PUSHW_1
+ -40
+PUSHB_4
+ 16
+ 0
+ 77
+ 14
+PUSHW_1
+ -32
+PUSHB_5
+ 17
+ 21
+ 0
+ 76
+ 14
+PUSHW_1
+ -24
+NPUSHB
+ 93
+ 16
+ 0
+ 77
+ 8
+ 24
+ 17
+ 21
+ 0
+ 76
+ 8
+ 32
+ 16
+ 0
+ 77
+ 32
+ 34
+ 33
+ 34
+ 156
+ 35
+ 32
+ 20
+ 35
+ 35
+ 32
+ 33
+ 33
+ 112
+ 64
+ 1
+ 64
+ 58
+ 150
+ 72
+ 63
+ 150
+ 67
+ 3
+ 39
+ 50
+ 19
+ 4
+ 16
+ 47
+ 150
+ 6
+ 41
+ 150
+ 0
+ 36
+ 150
+ 22
+ 35
+ 35
+ 22
+ 52
+ 150
+ 16
+ 22
+ 67
+ 63
+ 152
+ 65
+ 96
+ 58
+ 97
+ 34
+ 35
+ 89
+ 32
+ 33
+ 91
+ 19
+ 50
+ 66
+ 50
+ 1
+ 52
+ 50
+ 1
+ 50
+ 11
+ 44
+ 152
+ 3
+ 39
+ 39
+ 27
+ 104
+ 55
+ 152
+ 11
+ 102
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+IP
+SRP1
+SHP[rp1]
+MIRP[min,rnd,black]
+SRP1
+IP
+DELTAP2
+DELTAP2
+SRP1
+SHP[rp1]
+MIAP[rnd]
+SHP[rp1]
+MIAP[rnd]
+SHP[rp1]
+MIAP[rnd]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SHP[rp2]
+SVTCA[x-axis]
+MDAP[rnd]
+MDRP[rp0,rnd,grey]
+MIRP[min,rnd,black]
+SRP1
+SHP[rp1]
+MDAP[rnd]
+SRP0
+MIRP[rp0,min,rnd,black]
+MDRP[rp0,min,rnd,grey]
+MIRP[min,rnd,black]
+MDRP[rp0,rnd,grey]
+MIRP[min,rnd,black]
+SRP2
+SLOOP
+IP
+MDAP[rnd]
+MIRP[min,rnd,black]
+MDRP[rp0,min,rnd,white]
+MIRP[min,rnd,black]
+MDRP[min,rnd,grey]
+DELTAP1
+SHP[rp2]
+MDAP[rnd]
+SDPVTL[orthog]
+SRP0
+CALL
+SDPVTL[orthog]
+RDTG
+MDRP[rnd,grey]
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+255 69 m 0,0,1
+ 255 81 255 81 263.5 99 c 128,-1,2
+ 272 117 272 117 298 129 c 1,3,4
+ 284 137 284 137 274 151 c 128,-1,5
+ 264 165 264 165 264 188 c 0,6,7
+ 264 206 264 206 272.5 219.5 c 128,-1,8
+ 281 233 281 233 295 242 c 128,-1,9
+ 309 251 309 251 327 255 c 128,-1,10
+ 345 259 345 259 364 259 c 0,11,12
+ 382 259 382 259 400 254.5 c 128,-1,13
+ 418 250 418 250 432 241 c 128,-1,14
+ 446 232 446 232 454.5 218.5 c 128,-1,15
+ 463 205 463 205 463 188 c 0,16,17
+ 463 174 463 174 456 159.5 c 128,-1,18
+ 449 145 449 145 426 133 c 1,19,20
+ 445 124 445 124 458 109.5 c 128,-1,21
+ 471 95 471 95 471 70 c 0,22,23
+ 471 51 471 51 461.5 36.5 c 128,-1,24
+ 452 22 452 22 437 12.5 c 128,-1,25
+ 422 3 422 3 402.5 -2 c 128,-1,26
+ 383 -7 383 -7 363 -7 c 0,27,28
+ 342 -7 342 -7 322.5 -3 c 128,-1,29
+ 303 1 303 1 288 10 c 128,-1,30
+ 273 19 273 19 264 33.5 c 128,-1,31
+ 255 48 255 48 255 69 c 0,0,1
+80 0 m 1,32,-1
+ 11 0 l 1,33,-1
+ 389 619 l 1,34,-1
+ 460 619 l 1,35,-1
+ 80 0 l 1,32,-1
+412 69 m 0,36,37
+ 412 87 412 87 391.5 94.5 c 128,-1,38
+ 371 102 371 102 345 110 c 1,39,40
+ 314 94 314 94 314 69 c 0,41,42
+ 314 55 314 55 330 49 c 128,-1,43
+ 346 43 346 43 363 43 c 0,44,45
+ 382 43 382 43 397 49.5 c 128,-1,46
+ 412 56 412 56 412 69 c 0,36,37
+323 186 m 0,47,48
+ 323 172 323 172 338 164.5 c 128,-1,49
+ 353 157 353 157 375 151 c 1,50,51
+ 404 168 404 168 404 186 c 0,52,53
+ 404 196 404 196 393 202.5 c 128,-1,54
+ 382 209 382 209 361 209 c 0,55,56
+ 347 209 347 209 335 202.5 c 128,-1,57
+ 323 196 323 196 323 186 c 0,47,48
+70 376 m 1,58,59
+ 76 410 76 410 83 436 c 128,-1,60
+ 90 462 90 462 99 484.5 c 128,-1,61
+ 108 507 108 507 120.5 528.5 c 128,-1,62
+ 133 550 133 550 151 576 c 1,63,-1
+ 47 576 l 1,64,-1
+ 47 626 l 1,65,-1
+ 222 626 l 1,66,-1
+ 222 585 l 1,67,68
+ 198 558 198 558 183 536 c 128,-1,69
+ 168 514 168 514 158 490.5 c 128,-1,70
+ 148 467 148 467 141.5 440 c 128,-1,71
+ 135 413 135 413 129 376 c 1,72,-1
+ 70 376 l 1,58,59
+EndSplineSet
+Validated: 1
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seven.sinf fraction eight.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seven.sinf fraction eight.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seven.sinf fraction eightinferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seven.sinf fraction eightsuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seven.sinf fraction eight
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seven.sups fraction eight.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seven.sups fraction eight.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seven.sups fraction eightinferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seven.sups fraction eightsuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seven.sups fraction eight
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seveninferior fraction eight.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seveninferior fraction eight.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seveninferior fraction eightinferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seveninferior fraction eightsuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seveninferior fraction eight
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" sevensuperior fraction eight.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" sevensuperior fraction eight.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" sevensuperior fraction eightinferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" sevensuperior fraction eightsuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" sevensuperior fraction eight
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seven fraction eight.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seven fraction eight.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seven fraction eightinferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seven fraction eightsuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" seven fraction eight
+EndChar

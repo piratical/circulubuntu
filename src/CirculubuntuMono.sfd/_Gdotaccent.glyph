@@ -1,0 +1,28 @@
+StartChar: Gdotaccent
+Encoding: 288 288 251
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 44
+ 40
+ 46
+ 9
+ 1
+ 80
+ 1
+ 14
+ 38
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 42 71 N 1 0 0 1 0 0 3
+Refer: 354 729 N 1 0 0 1 45 139 2
+Validated: 1
+EndChar

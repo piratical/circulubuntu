@@ -1,0 +1,29 @@
+StartChar: atilde
+Encoding: 227 227 190
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 5
+ 63
+ 49
+ 28
+ 19
+ 80
+ 2
+ 15
+ 62
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 117 732 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Atilde
+EndChar

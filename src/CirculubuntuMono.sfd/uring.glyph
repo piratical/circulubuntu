@@ -1,0 +1,25 @@
+StartChar: uring
+Encoding: 367 367 329
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_8
+ 2
+ 1
+ 1
+ 27
+ 22
+ 7
+ 0
+ 80
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 88 117 N 1 0 0 1 0 0 3
+Refer: 355 730 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Uring
+EndChar

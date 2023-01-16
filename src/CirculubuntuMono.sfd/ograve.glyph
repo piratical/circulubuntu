@@ -1,0 +1,29 @@
+StartChar: ograve
+Encoding: 242 242 205
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 5
+ 35
+ 33
+ 9
+ 0
+ 80
+ 2
+ 14
+ 34
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 82 111 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 9 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Ograve
+EndChar

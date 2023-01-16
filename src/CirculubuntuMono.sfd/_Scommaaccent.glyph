@@ -1,0 +1,23 @@
+StartChar: Scommaaccent
+Encoding: 536 536 345
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -39
+PUSHB_5
+ 59
+ 53
+ 46
+ 37
+ 80
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 54 83 N 1 0 0 1 0 0 3
+Refer: 451 -1 N 1 0 0 1 -35 0 2
+Validated: 1
+EndChar

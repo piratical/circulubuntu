@@ -1,0 +1,23 @@
+StartChar: Kcommaaccent
+Encoding: 310 310 274
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -49
+PUSHB_5
+ 32
+ 26
+ 16
+ 8
+ 80
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 46 75 N 1 0 0 1 0 0 3
+Refer: 451 -1 N 1 0 0 1 -17 0 2
+Validated: 1
+EndChar

@@ -1,0 +1,28 @@
+StartChar: Idotaccent
+Encoding: 304 304 267
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 0
+ 14
+ 20
+ 4
+ 2
+ 80
+ 1
+ 9
+ 12
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 3
+Refer: 354 729 N 1 0 0 1 0 139 2
+Validated: 1
+EndChar

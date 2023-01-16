@@ -1,0 +1,357 @@
+StartChar: sixsuperior
+Encoding: 8310 8310 370
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 29
+ -56
+PUSHB_4
+ 24
+ 0
+ 77
+ 29
+PUSHW_1
+ -40
+NPUSHB
+ 16
+ 22
+ 23
+ 0
+ 76
+ 24
+ 24
+ 13
+ 0
+ 77
+ 24
+ 32
+ 11
+ 12
+ 0
+ 76
+ 19
+PUSHW_1
+ -24
+PUSHB_4
+ 16
+ 0
+ 77
+ 19
+PUSHW_1
+ -32
+PUSHB_5
+ 14
+ 15
+ 0
+ 76
+ 19
+PUSHW_1
+ -24
+PUSHB_5
+ 12
+ 13
+ 0
+ 76
+ 19
+PUSHW_1
+ -32
+PUSHB_4
+ 11
+ 0
+ 77
+ 15
+PUSHW_1
+ -48
+PUSHB_4
+ 17
+ 0
+ 77
+ 15
+PUSHW_1
+ -24
+PUSHB_4
+ 16
+ 0
+ 77
+ 15
+PUSHW_1
+ -40
+PUSHB_4
+ 15
+ 0
+ 77
+ 15
+PUSHW_1
+ -24
+PUSHB_4
+ 14
+ 0
+ 77
+ 15
+PUSHW_1
+ -32
+PUSHB_4
+ 13
+ 0
+ 77
+ 15
+PUSHW_1
+ -40
+PUSHB_4
+ 12
+ 0
+ 77
+ 15
+PUSHW_1
+ -24
+PUSHB_4
+ 11
+ 0
+ 77
+ 14
+PUSHW_1
+ -48
+PUSHB_4
+ 11
+ 0
+ 77
+ 8
+PUSHW_1
+ -40
+PUSHB_4
+ 24
+ 0
+ 77
+ 8
+PUSHW_1
+ -24
+PUSHB_4
+ 22
+ 0
+ 77
+ 8
+PUSHW_1
+ -24
+PUSHB_4
+ 20
+ 0
+ 77
+ 8
+PUSHW_1
+ -16
+PUSHB_4
+ 19
+ 0
+ 77
+ 7
+PUSHW_1
+ -40
+PUSHB_4
+ 23
+ 0
+ 77
+ 7
+PUSHW_1
+ -40
+PUSHB_4
+ 21
+ 0
+ 77
+ 7
+PUSHW_1
+ -48
+PUSHB_4
+ 16
+ 0
+ 77
+ 7
+PUSHW_1
+ -32
+PUSHB_4
+ 15
+ 0
+ 77
+ 7
+PUSHW_1
+ -24
+PUSHB_4
+ 14
+ 0
+ 77
+ 6
+PUSHW_1
+ -48
+PUSHB_4
+ 24
+ 0
+ 77
+ 6
+PUSHW_1
+ -40
+PUSHB_4
+ 23
+ 0
+ 77
+ 6
+PUSHW_1
+ -56
+PUSHB_4
+ 22
+ 0
+ 77
+ 6
+PUSHW_1
+ -48
+PUSHB_4
+ 21
+ 0
+ 77
+ 6
+PUSHW_1
+ -40
+NPUSHB
+ 38
+ 19
+ 20
+ 0
+ 76
+ 1
+ 32
+ 27
+ 0
+ 77
+ 20
+ 16
+ 28
+ 0
+ 77
+ 19
+ 16
+ 28
+ 0
+ 77
+ 9
+ 27
+ 150
+ 0
+ 35
+ 150
+ 17
+ 4
+ 4
+ 17
+ 0
+ 25
+ 152
+ 12
+ 12
+ 3
+ 30
+ 152
+ 22
+PUSHW_1
+ 257
+PUSHB_4
+ 4
+ 152
+ 3
+ 96
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SRP1
+IP
+MDAP[rnd]
+MIRP[min,rnd,black]
+SVTCA[x-axis]
+MDAP[rnd]
+MDRP[min,rnd,grey]
+SHP[rp2]
+MDAP[rnd]
+SRP0
+MIRP[min,rnd,black]
+SRP0
+MIRP[min,rnd,black]
+SHP[rp2]
+IUP[x]
+IUP[y]
+SVTCA[y-axis]
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+125 421 m 0,0,1
+ 125 521 125 521 187 573.5 c 128,-1,2
+ 249 626 249 626 356 628 c 1,3,-1
+ 362 573 l 1,4,5
+ 332 572 332 572 305 566.5 c 128,-1,6
+ 278 561 278 561 256 550 c 128,-1,7
+ 234 539 234 539 218 523.5 c 128,-1,8
+ 202 508 202 508 196 487 c 1,9,10
+ 214 495 214 495 230.5 497 c 128,-1,11
+ 247 499 247 499 261 499 c 0,12,13
+ 295 499 295 499 319 490 c 128,-1,14
+ 343 481 343 481 358 466 c 128,-1,15
+ 373 451 373 451 379.5 431 c 128,-1,16
+ 386 411 386 411 386 389 c 0,17,18
+ 386 369 386 369 378.5 349 c 128,-1,19
+ 371 329 371 329 355.5 312 c 128,-1,20
+ 340 295 340 295 316.5 284.5 c 128,-1,21
+ 293 274 293 274 261 274 c 0,22,23
+ 193 274 193 274 159 313 c 128,-1,24
+ 125 352 125 352 125 421 c 0,0,1
+255 447 m 256,25,26
+ 220 447 220 447 187 436 c 1,27,28
+ 185 387 185 387 201 357 c 128,-1,29
+ 217 327 217 327 260 327 c 0,30,31
+ 277 327 277 327 288.5 333 c 128,-1,32
+ 300 339 300 339 307.5 348 c 128,-1,33
+ 315 357 315 357 318 368 c 128,-1,34
+ 321 379 321 379 321 388 c 0,35,36
+ 321 417 321 417 305.5 432 c 128,-1,37
+ 290 447 290 447 255 447 c 256,25,26
+EndSplineSet
+Validated: 33
+Substitution2: "Single Substitution lookup 22 subtable" sixinferior
+Substitution2: "'sinf' Scientific Inferiors lookup 11 subtable" six.sinf
+Substitution2: "'subs' Subscript lookup 10 subtable" six.sinf
+Substitution2: "'sups' Superscript lookup 9 subtable" six.sups
+Substitution2: "'dnom' Denominators lookup 8 subtable" sixinferior
+EndChar

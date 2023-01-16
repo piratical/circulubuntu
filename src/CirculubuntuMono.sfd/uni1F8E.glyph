@@ -1,0 +1,27 @@
+StartChar: uni1F8E
+Encoding: 8078 8078 1108
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_2
+ 4
+ 3
+PUSHW_1
+ -295
+PUSHB_5
+ 72
+ 62
+ 3
+ 29
+ 80
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1153 8124 N 1 0 0 1 0 0 3
+Refer: 1171 8143 N 1 0 0 1 -291 -95 2
+Validated: 1
+Substitution2: "'ss01' Style Set 1 lookup 19 subtable" uni1F8E.alt
+EndChar

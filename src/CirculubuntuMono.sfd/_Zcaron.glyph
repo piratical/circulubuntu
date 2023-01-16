@@ -1,0 +1,29 @@
+StartChar: Zcaron
+Encoding: 381 381 342
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -4
+NPUSHB
+ 9
+ 18
+ 22
+ 8
+ 6
+ 80
+ 1
+ 16
+ 23
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 61 90 N 1 0 0 1 0 0 3
+Refer: 351 711 N 1 0 0 1 0 139 2
+Validated: 1
+EndChar

@@ -1,0 +1,29 @@
+StartChar: Wgrave
+Encoding: 7808 7808 358
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -3
+NPUSHB
+ 9
+ 24
+ 22
+ 6
+ 13
+ 80
+ 1
+ 6
+ 23
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 58 87 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 0 137 2
+Validated: 1
+EndChar

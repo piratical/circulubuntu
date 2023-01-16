@@ -1,0 +1,44 @@
+StartChar: tonos
+Encoding: 900 900 977
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 9
+ 3
+ 0
+ 1
+ 2
+ 0
+ 3
+ 128
+ 2
+ 1
+SVTCA[y-axis]
+MDAP[rnd]
+SHP[rp1]
+SMD
+MDRP[min,rnd,black]
+SHP[rp2]
+SVTCA[x-axis]
+MDAP[rnd]
+RTHG
+MDRP[rnd,black]
+RTG
+MDRP[rp0,min,rnd,black]
+RTHG
+MDRP[rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+329 655 m 1,0,-1
+ 213 513 l 1,1,-1
+ 164 547 l 1,2,-1
+ 265 699 l 1,3,-1
+ 329 655 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

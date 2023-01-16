@@ -1,0 +1,28 @@
+StartChar: Ubreve
+Encoding: 364 364 326
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 0
+ 30
+ 44
+ 4
+ 20
+ 80
+ 1
+ 6
+ 26
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 56 85 N 1 0 0 1 0 0 3
+Refer: 353 728 N 1 0 0 1 0 139 2
+Validated: 1
+EndChar

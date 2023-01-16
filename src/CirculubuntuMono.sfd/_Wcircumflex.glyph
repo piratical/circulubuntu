@@ -1,0 +1,28 @@
+StartChar: Wcircumflex
+Encoding: 372 372 334
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 0
+ 26
+ 22
+ 6
+ 13
+ 80
+ 1
+ 6
+ 23
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 58 87 N 1 0 0 1 0 0 3
+Refer: 105 710 N 1 0 0 1 0 139 2
+Validated: 1
+EndChar

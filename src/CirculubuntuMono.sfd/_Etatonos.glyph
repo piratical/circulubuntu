@@ -1,0 +1,23 @@
+StartChar: Etatonos
+Encoding: 905 905 959
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -309
+PUSHB_5
+ 14
+ 12
+ 7
+ 1
+ 80
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 43 72 N 1 0 0 1 0 0 3
+Refer: 978 -1 N 1 0 0 1 -326 0 2
+Validated: 1
+EndChar

@@ -1,0 +1,28 @@
+StartChar: Ntilde
+Encoding: 209 209 172
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 0
+ 32
+ 18
+ 7
+ 16
+ 80
+ 1
+ 8
+ 31
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 49 78 N 1 0 0 1 0 0 3
+Refer: 117 732 N 1 0 0 1 0 139 2
+Validated: 1
+EndChar

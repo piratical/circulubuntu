@@ -1,0 +1,87 @@
+StartChar: dieresis_acute.cap
+Encoding: 1114148 -1 686
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 23
+ 3
+ 0
+ 0
+ 13
+ 7
+ 25
+ 1
+ 2
+ 2
+ 19
+ 25
+ 10
+ 22
+ 16
+ 64
+ 0
+ 3
+ 128
+ 2
+ 1
+ 1
+ 4
+ 16
+SVTCA[y-axis]
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+SMD
+MDRP[min,rnd,black]
+SHP[rp2]
+SMD
+SRP0
+MDRP[min,rnd,black]
+SHP[rp2]
+SVTCA[x-axis]
+MDAP[rnd]
+MDRP[min,rnd,black]
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+SRP0
+MDRP[rp0,min,rnd,grey]
+MDRP[min,rnd,black]
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+330 784 m 1,0,-1
+ 244 689 l 1,1,-1
+ 204 723 l 1,2,-1
+ 276 830 l 1,3,-1
+ 330 784 l 1,0,-1
+371 657 m 0,4,5
+ 351 657 351 657 337 670.5 c 128,-1,6
+ 323 684 323 684 323 706 c 0,7,8
+ 323 729 323 729 337 742 c 128,-1,9
+ 351 755 351 755 371 755 c 0,10,11
+ 392 755 392 755 406 742 c 128,-1,12
+ 420 729 420 729 420 706 c 0,13,14
+ 420 684 420 684 406 670.5 c 128,-1,15
+ 392 657 392 657 371 657 c 0,4,5
+129 657 m 256,16,17
+ 109 657 109 657 94.5 670.5 c 128,-1,18
+ 80 684 80 684 80 706 c 0,19,20
+ 80 729 80 729 94.5 742 c 128,-1,21
+ 109 755 109 755 129 755 c 256,22,23
+ 149 755 149 755 163 742 c 128,-1,24
+ 177 729 177 729 177 706 c 0,25,26
+ 177 684 177 684 163 670.5 c 128,-1,27
+ 149 657 149 657 129 657 c 256,16,17
+EndSplineSet
+Validated: 1
+EndChar

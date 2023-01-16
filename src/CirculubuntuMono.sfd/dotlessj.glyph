@@ -1,0 +1,75 @@
+StartChar: dotlessj
+Encoding: 567 567 349
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 5
+ -24
+NPUSHB
+ 22
+ 9
+ 10
+ 0
+ 76
+ 18
+ 127
+ 3
+ 21
+ 11
+ 11
+ 0
+ 20
+ 12
+ 12
+ 15
+ 136
+ 8
+ 82
+ 19
+ 133
+ 2
+ 73
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+SVTCA[x-axis]
+SRP0
+MDRP[rnd,white]
+SHP[rp2]
+MDAP[rnd]
+SRP0
+MDRP[rp0,min,rnd,white]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+114 395 m 1,0,-1
+ 114 464 l 1,1,-1
+ 384 464 l 1,2,-1
+ 384 5 l 2,3,4
+ 384 -43 384 -43 370.5 -76.5 c 128,-1,5
+ 357 -110 357 -110 334.5 -131 c 128,-1,6
+ 312 -152 312 -152 282.5 -161 c 128,-1,7
+ 253 -170 253 -170 220 -170 c 0,8,9
+ 182 -170 182 -170 143.5 -162 c 128,-1,10
+ 105 -154 105 -154 71 -137 c 1,11,-1
+ 96 -67 l 1,12,13
+ 121 -79 121 -79 151.5 -87.5 c 128,-1,14
+ 182 -96 182 -96 210 -96 c 0,15,16
+ 250 -96 250 -96 276 -75.5 c 128,-1,17
+ 302 -55 302 -55 302 4 c 2,18,-1
+ 302 395 l 1,19,-1
+ 114 395 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 17 subtable" J
+EndChar

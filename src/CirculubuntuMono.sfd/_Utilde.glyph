@@ -1,0 +1,28 @@
+StartChar: Utilde
+Encoding: 360 360 322
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 0
+ 40
+ 26
+ 4
+ 20
+ 80
+ 1
+ 6
+ 39
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 56 85 N 1 0 0 1 0 0 3
+Refer: 117 732 N 1 0 0 1 0 139 2
+Validated: 1
+EndChar

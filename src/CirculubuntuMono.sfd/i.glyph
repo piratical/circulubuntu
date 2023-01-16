@@ -1,0 +1,112 @@
+StartChar: i
+Encoding: 105 105 76
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 41
+ 31
+ 24
+ 11
+ 13
+ 0
+ 76
+ 31
+ 40
+ 10
+ 0
+ 77
+ 31
+ 32
+ 9
+ 0
+ 77
+ 3
+ 131
+ 9
+ 15
+ 127
+ 12
+ 12
+ 13
+ 23
+ 35
+ 13
+ 34
+ 22
+ 22
+ 19
+ 136
+ 28
+ 81
+ 6
+ 138
+ 0
+ 12
+ 133
+ 15
+ 73
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MDRP[rp0,min,rnd,white]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+SVTCA[x-axis]
+SRP0
+MDRP[rnd,white]
+SRP0
+MDRP[min,rnd,white]
+SRP1
+IP
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+MDRP[rp0,rnd,grey]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+209 536 m 0,0,1
+ 183 536 183 536 164 554 c 128,-1,2
+ 145 572 145 572 145 603 c 256,3,4
+ 145 634 145 634 164 652 c 128,-1,5
+ 183 670 183 670 209 670 c 0,6,7
+ 236 670 236 670 254.5 652 c 128,-1,8
+ 273 634 273 634 273 603 c 256,9,10
+ 273 572 273 572 254.5 554 c 128,-1,11
+ 236 536 236 536 209 536 c 0,0,1
+188 395 m 1,12,-1
+ 54 395 l 1,13,-1
+ 54 464 l 1,14,-1
+ 270 464 l 1,15,-1
+ 270 179 l 2,16,17
+ 270 110 270 110 289 86.5 c 128,-1,18
+ 308 63 308 63 346 63 c 0,19,20
+ 375 63 375 63 399.5 70 c 128,-1,21
+ 424 77 424 77 438 85 c 1,22,-1
+ 450 15 l 1,23,24
+ 444 12 444 12 433 7.5 c 128,-1,25
+ 422 3 422 3 407.5 -1 c 128,-1,26
+ 393 -5 393 -5 375.5 -8 c 128,-1,27
+ 358 -11 358 -11 339 -11 c 0,28,29
+ 295 -11 295 -11 266 1 c 128,-1,30
+ 237 13 237 13 219.5 37 c 128,-1,31
+ 202 61 202 61 195 96.5 c 128,-1,32
+ 188 132 188 132 188 179 c 2,33,-1
+ 188 395 l 1,12,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" I
+Substitution2: "'locl' Localized Forms in Latin lookup 2 subtable" i.locl
+Substitution2: "'locl' Localized Forms in Latin lookup 1 subtable" i.locl
+Substitution2: "'locl' Localized Forms in Latin lookup 0 subtable" i.locl
+EndChar

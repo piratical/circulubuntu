@@ -1,0 +1,13 @@
+StartChar: six.sinf
+Encoding: 63514 63514 446
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+Refer: 370 8310 N 1 0 0 1 -8 -434 3
+Validated: 1
+Substitution2: "'ss02' Style Set 2 lookup 15 subtable" sixsuperior
+Substitution2: "'sups' Superscript lookup 9 subtable" six.sups
+Substitution2: "'dnom' Denominators lookup 8 subtable" sixinferior
+Substitution2: "'numr' Numerators lookup 6 subtable" sixsuperior
+EndChar

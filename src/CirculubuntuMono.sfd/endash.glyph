@@ -1,0 +1,31 @@
+StartChar: endash
+Encoding: 8211 8211 115
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_4
+ 1
+ 3
+ 0
+ 3
+SVTCA[y-axis]
+MDAP[rnd]
+MDRP[min,rnd,black]
+SVTCA[x-axis]
+MDAP[rnd]
+MDRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+69 306 m 1,0,-1
+ 431 306 l 1,1,-1
+ 431 236 l 1,2,-1
+ 69 236 l 1,3,-1
+ 69 306 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 17 subtable" Endash
+EndChar

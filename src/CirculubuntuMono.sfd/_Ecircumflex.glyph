@@ -1,0 +1,29 @@
+StartChar: Ecircumflex
+Encoding: 202 202 165
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -7
+NPUSHB
+ 9
+ 17
+ 13
+ 0
+ 10
+ 80
+ 1
+ 1
+ 14
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 40 69 N 1 0 0 1 0 0 3
+Refer: 105 710 N 1 0 0 1 18 139 2
+Validated: 1
+EndChar

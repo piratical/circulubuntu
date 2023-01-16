@@ -1,0 +1,702 @@
+StartChar: eightsuperior
+Encoding: 8312 8312 372
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 38
+ 40
+ 24
+ 0
+ 77
+ 38
+ 32
+ 17
+ 0
+ 77
+ 26
+PUSHW_1
+ -24
+PUSHB_4
+ 16
+ 0
+ 77
+ 26
+PUSHW_1
+ -16
+PUSHB_4
+ 15
+ 0
+ 77
+ 26
+PUSHW_1
+ -24
+PUSHB_4
+ 14
+ 0
+ 77
+ 24
+PUSHW_1
+ -16
+PUSHB_4
+ 18
+ 0
+ 77
+ 24
+PUSHW_1
+ -24
+PUSHB_4
+ 17
+ 0
+ 77
+ 20
+PUSHW_1
+ -40
+PUSHB_5
+ 12
+ 17
+ 0
+ 76
+ 20
+PUSHW_1
+ -32
+NPUSHB
+ 31
+ 11
+ 0
+ 77
+ 15
+ 32
+ 11
+ 17
+ 0
+ 76
+ 12
+ 32
+ 18
+ 0
+ 77
+ 12
+ 40
+ 17
+ 0
+ 77
+ 6
+ 32
+ 12
+ 17
+ 0
+ 76
+ 6
+ 40
+ 11
+ 0
+ 77
+ 1
+PUSHW_1
+ -32
+NPUSHB
+ 10
+ 11
+ 17
+ 0
+ 76
+ 51
+ 8
+ 22
+ 0
+ 77
+ 50
+PUSHW_1
+ -24
+PUSHB_4
+ 46
+ 0
+ 77
+ 50
+PUSHW_1
+ -16
+PUSHB_4
+ 43
+ 0
+ 77
+ 50
+PUSHW_1
+ -24
+PUSHB_4
+ 41
+ 0
+ 77
+ 49
+PUSHW_1
+ -48
+PUSHB_4
+ 46
+ 0
+ 77
+ 49
+PUSHW_1
+ -32
+PUSHB_4
+ 43
+ 0
+ 77
+ 49
+PUSHW_1
+ -48
+PUSHB_4
+ 41
+ 0
+ 77
+ 49
+PUSHW_1
+ -32
+PUSHB_4
+ 32
+ 0
+ 77
+ 49
+PUSHW_1
+ -16
+PUSHB_4
+ 31
+ 0
+ 77
+ 49
+PUSHW_1
+ -24
+PUSHB_4
+ 29
+ 0
+ 77
+ 49
+PUSHW_1
+ -48
+PUSHB_5
+ 25
+ 27
+ 0
+ 76
+ 49
+PUSHW_1
+ -32
+PUSHB_4
+ 24
+ 0
+ 77
+ 49
+PUSHW_1
+ -24
+NPUSHB
+ 147
+ 21
+ 22
+ 0
+ 76
+ 41
+ 48
+ 46
+ 0
+ 77
+ 40
+ 24
+ 46
+ 0
+ 77
+ 40
+ 24
+ 28
+ 0
+ 77
+ 40
+ 16
+ 27
+ 0
+ 77
+ 40
+ 24
+ 26
+ 0
+ 77
+ 40
+ 16
+ 25
+ 0
+ 77
+ 40
+ 24
+ 24
+ 0
+ 77
+ 40
+ 24
+ 18
+ 0
+ 77
+ 39
+ 16
+ 27
+ 0
+ 77
+ 38
+ 48
+ 46
+ 0
+ 77
+ 38
+ 24
+ 41
+ 0
+ 77
+ 38
+ 16
+ 31
+ 0
+ 77
+ 38
+ 40
+ 30
+ 0
+ 77
+ 38
+ 24
+ 26
+ 28
+ 0
+ 76
+ 38
+ 16
+ 25
+ 0
+ 77
+ 38
+ 32
+ 24
+ 0
+ 77
+ 38
+ 24
+ 23
+ 0
+ 77
+ 38
+ 16
+ 22
+ 0
+ 77
+ 38
+ 24
+ 17
+ 0
+ 77
+ 37
+ 64
+ 46
+ 0
+ 77
+ 37
+ 40
+ 41
+ 0
+ 77
+ 37
+ 40
+ 31
+ 0
+ 77
+ 37
+ 24
+ 29
+ 0
+ 77
+ 37
+ 40
+ 28
+ 0
+ 77
+ 37
+ 56
+ 25
+ 27
+ 0
+ 76
+ 37
+ 24
+ 21
+ 0
+ 77
+ 37
+ 48
+ 20
+ 0
+ 77
+ 37
+ 40
+ 18
+ 0
+ 77
+ 26
+PUSHW_1
+ -16
+PUSHB_4
+ 30
+ 0
+ 77
+ 26
+PUSHW_1
+ -24
+PUSHB_4
+ 23
+ 0
+ 77
+ 26
+PUSHW_1
+ -56
+NPUSHB
+ 9
+ 22
+ 0
+ 77
+ 24
+ 32
+ 30
+ 0
+ 77
+ 20
+PUSHW_1
+ -40
+PUSHB_4
+ 32
+ 0
+ 77
+ 20
+PUSHW_1
+ -24
+PUSHB_5
+ 29
+ 30
+ 0
+ 76
+ 20
+PUSHW_1
+ -16
+PUSHB_4
+ 20
+ 0
+ 77
+ 20
+PUSHW_1
+ -16
+PUSHB_4
+ 18
+ 0
+ 77
+ 15
+PUSHW_1
+ -24
+NPUSHB
+ 9
+ 32
+ 0
+ 77
+ 15
+ 24
+ 31
+ 0
+ 77
+ 15
+PUSHW_1
+ -24
+NPUSHB
+ 14
+ 29
+ 0
+ 77
+ 12
+ 24
+ 41
+ 0
+ 77
+ 12
+ 40
+ 30
+ 0
+ 77
+ 10
+PUSHW_1
+ -16
+PUSHB_4
+ 23
+ 0
+ 77
+ 10
+PUSHW_1
+ -40
+NPUSHB
+ 14
+ 22
+ 0
+ 77
+ 6
+ 24
+ 30
+ 0
+ 77
+ 6
+ 16
+ 29
+ 0
+ 77
+ 5
+PUSHW_1
+ -16
+PUSHB_4
+ 31
+ 0
+ 77
+ 1
+PUSHW_1
+ -40
+NPUSHB
+ 73
+ 31
+ 0
+ 77
+ 1
+ 16
+ 30
+ 0
+ 77
+ 1
+ 24
+ 29
+ 0
+ 77
+ 25
+ 51
+ 39
+ 11
+ 4
+ 22
+ 48
+ 150
+ 14
+ 14
+ 8
+ 42
+ 150
+ 22
+ 22
+ 255
+ 36
+ 1
+ 36
+ 150
+ 0
+ 28
+ 150
+ 8
+ 39
+ 16
+ 24
+ 0
+ 77
+ 91
+ 39
+ 1
+ 63
+ 39
+ 1
+ 39
+ 152
+ 25
+ 11
+ 95
+ 51
+ 143
+ 51
+ 2
+ 127
+ 51
+ 223
+ 51
+ 2
+ 143
+ 51
+ 1
+ 51
+ 45
+ 152
+ 17
+ 99
+ 33
+ 152
+ 3
+PUSHW_1
+ 257
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MDAP[rnd]
+DELTAP1
+DELTAP2
+DELTAP3
+SHP[rp1]
+SHP[rp1]
+MIRP[min,rnd,black]
+DELTAP2
+DELTAP2
+CALL
+SVTCA[x-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+MDRP[rp0,min,rnd,grey]
+MIRP[min,rnd,black]
+DELTAP1
+SHP[rp1]
+MDAP[rnd]
+MIRP[min,rnd,black]
+SRP1
+SHP[rp1]
+MDAP[rnd]
+MIRP[min,rnd,black]
+SRP2
+SLOOP
+IP
+IUP[x]
+IUP[y]
+SVTCA[y-axis]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+381 375 m 0,0,1
+ 381 330 381 330 347.5 302 c 128,-1,2
+ 314 274 314 274 249 274 c 0,3,4
+ 211 274 211 274 186 283.5 c 128,-1,5
+ 161 293 161 293 146 307.5 c 128,-1,6
+ 131 322 131 322 125 339 c 128,-1,7
+ 119 356 119 356 119 372 c 0,8,9
+ 119 397 119 397 135 419 c 128,-1,10
+ 151 441 151 441 172 455 c 1,11,12
+ 152 470 152 470 140 491 c 128,-1,13
+ 128 512 128 512 128 535 c 0,14,15
+ 128 575 128 575 160.5 604 c 128,-1,16
+ 193 633 193 633 249 633 c 0,17,18
+ 282 633 282 633 305 624 c 128,-1,19
+ 328 615 328 615 342.5 601.5 c 128,-1,20
+ 357 588 357 588 364 571.5 c 128,-1,21
+ 371 555 371 555 371 539 c 0,22,23
+ 371 514 371 514 358 494 c 128,-1,24
+ 345 474 345 474 324 460 c 1,25,26
+ 356 444 356 444 367.5 424 c 128,-1,27
+ 379 404 379 404 381 375 c 0,0,1
+181 372 m 0,28,29
+ 181 365 181 365 184.5 357 c 128,-1,30
+ 188 349 188 349 196 342.5 c 128,-1,31
+ 204 336 204 336 217 331.5 c 128,-1,32
+ 230 327 230 327 249 327 c 0,33,34
+ 286 327 286 327 301.5 340.5 c 128,-1,35
+ 317 354 317 354 317 372 c 0,36,37
+ 317 397 317 397 291.5 411 c 128,-1,38
+ 266 425 266 425 221 436 c 1,39,40
+ 202 422 202 422 191.5 407 c 128,-1,41
+ 181 392 181 392 181 372 c 0,28,29
+309 540 m 0,42,43
+ 309 551 309 551 295.5 565.5 c 128,-1,44
+ 282 580 282 580 249 580 c 256,45,46
+ 216 580 216 580 202.5 566 c 128,-1,47
+ 189 552 189 552 189 538 c 0,48,49
+ 189 520 189 520 208 503.5 c 128,-1,50
+ 227 487 227 487 269 479 c 1,51,52
+ 287 492 287 492 298 506 c 128,-1,53
+ 309 520 309 520 309 540 c 0,42,43
+EndSplineSet
+Validated: 1
+Substitution2: "Single Substitution lookup 22 subtable" eightinferior
+Substitution2: "'sinf' Scientific Inferiors lookup 11 subtable" eight.sinf
+Substitution2: "'subs' Subscript lookup 10 subtable" eight.sinf
+Substitution2: "'sups' Superscript lookup 9 subtable" eight.sups
+Substitution2: "'dnom' Denominators lookup 8 subtable" eightinferior
+EndChar

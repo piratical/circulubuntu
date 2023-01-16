@@ -1,0 +1,27 @@
+StartChar: uni1FAA
+Encoding: 8106 8106 1136
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_2
+ 3
+ 2
+PUSHW_1
+ -413
+PUSHB_5
+ 62
+ 81
+ 1
+ 61
+ 80
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1210 8188 N 1 0 0 1 0 0 3
+Refer: 1169 8141 N 1 0 0 1 -404 -63 2
+Validated: 1
+Substitution2: "'ss01' Style Set 1 lookup 21 subtable" uni1FAA.alt
+EndChar

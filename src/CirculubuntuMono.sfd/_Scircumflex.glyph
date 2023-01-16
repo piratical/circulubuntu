@@ -1,0 +1,28 @@
+StartChar: Scircumflex
+Encoding: 348 348 312
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 9
+ 55
+ 51
+ 46
+ 37
+ 80
+ 1
+ 15
+ 52
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 54 83 N 1 0 0 1 0 0 3
+Refer: 105 710 N 1 0 0 1 9 139 2
+Validated: 1
+EndChar

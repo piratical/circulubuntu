@@ -1,0 +1,14 @@
+StartChar: fourinferior
+Encoding: 8324 8324 378
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+Refer: 368 8308 N 1 0 0 1 0 -280 3
+Validated: 1
+Substitution2: "'ss02' Style Set 2 lookup 15 subtable" foursuperior
+Substitution2: "'sinf' Scientific Inferiors lookup 11 subtable" four.sinf
+Substitution2: "'subs' Subscript lookup 10 subtable" four.sinf
+Substitution2: "'sups' Superscript lookup 9 subtable" four.sups
+Substitution2: "'numr' Numerators lookup 6 subtable" foursuperior
+EndChar

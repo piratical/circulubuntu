@@ -1,0 +1,56 @@
+StartChar: Adieresis
+Encoding: 196 196 159
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 34
+ 16
+ 32
+ 16
+ 38
+ 2
+ 48
+ 38
+ 1
+ 48
+ 32
+ 64
+ 32
+ 80
+ 32
+ 144
+ 32
+ 192
+ 32
+ 208
+ 32
+ 224
+ 32
+ 240
+ 32
+ 8
+ 32
+ 3
+ 9
+ 35
+ 79
+ 2
+ 9
+ 23
+ 79
+CALL
+CALL
+SVTCA[x-axis]
+SRP0
+DELTAP1
+DELTAP1
+DELTAP2
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 36 65 N 1 0 0 1 0 0 3
+Refer: 131 168 N 1 0 0 1 0 139 2
+Validated: 1
+EndChar

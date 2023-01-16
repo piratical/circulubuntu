@@ -1,0 +1,28 @@
+StartChar: Sacute
+Encoding: 346 346 310
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 22
+ 52
+ 50
+ 46
+ 37
+ 80
+ 1
+ 15
+ 51
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 54 83 N 1 0 0 1 0 0 3
+Refer: 143 180 N 1 0 0 1 18 137 2
+Validated: 1
+EndChar

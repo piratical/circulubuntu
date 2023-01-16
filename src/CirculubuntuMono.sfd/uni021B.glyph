@@ -1,0 +1,23 @@
+StartChar: uni021B
+Encoding: 539 539 348
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_7
+ 1
+ 25
+ 37
+ 31
+ 23
+ 13
+ 80
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 87 116 N 1 0 0 1 0 0 3
+Refer: 451 -1 N 1 0 0 1 36 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" uni021A
+EndChar

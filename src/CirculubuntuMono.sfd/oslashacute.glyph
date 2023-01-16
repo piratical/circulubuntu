@@ -1,0 +1,28 @@
+StartChar: oslashacute
+Encoding: 511 511 599
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 3
+ 27
+ 49
+ 47
+ 3
+ 16
+ 80
+ 3
+ 12
+ 48
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 211 248 N 1 0 0 1 0 0 3
+Refer: 143 180 N 1 0 0 1 23 0 2
+Validated: 1
+EndChar

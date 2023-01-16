@@ -1,0 +1,30 @@
+StartChar: ygrave
+Encoding: 7923 7923 365
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -2
+NPUSHB
+ 9
+ 36
+ 34
+ 32
+ 21
+ 80
+ 1
+ 9
+ 35
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 92 121 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Ygrave
+EndChar

@@ -1,0 +1,28 @@
+StartChar: Ocircumflex
+Encoding: 212 212 175
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 0
+ 37
+ 33
+ 0
+ 9
+ 80
+ 2
+ 4
+ 34
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 50 79 N 1 0 0 1 0 0 3
+Refer: 105 710 N 1 0 0 1 0 139 2
+Validated: 1
+EndChar

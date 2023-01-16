@@ -1,0 +1,49 @@
+StartChar: apostrophe
+Encoding: 700 700 350
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 12
+ 15
+ 14
+ 6
+ 7
+ 7
+ 0
+ 13
+ 13
+ 6
+SVTCA[y-axis]
+MDAP[rnd]
+MDRP[min,rnd,grey]
+SVTCA[x-axis]
+MDAP[rnd]
+MDRP[min,rnd,black]
+SHP[rp1]
+MDAP[rnd]
+MDRP[min,rnd,black]
+SRP1
+SRP2
+IP
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+308 693 m 1,0,1
+ 308 683 308 683 308 676 c 128,-1,2
+ 308 669 308 669 307 661 c 0,3,4
+ 304 615 304 615 288.5 577.5 c 128,-1,5
+ 273 540 273 540 252 505 c 1,6,-1
+ 196 526 l 1,7,8
+ 213 561 213 561 220.5 592.5 c 128,-1,9
+ 228 624 228 624 228 659 c 0,10,11
+ 228 668 228 668 227.5 678 c 128,-1,12
+ 227 688 227 688 226 693 c 1,13,-1
+ 308 693 l 1,0,1
+EndSplineSet
+Validated: 1
+EndChar

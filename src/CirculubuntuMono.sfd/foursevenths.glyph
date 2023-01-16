@@ -1,0 +1,184 @@
+StartChar: foursevenths
+Encoding: 62729 62729 401
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 60
+ 33
+ 35
+ 34
+ 35
+ 156
+ 36
+ 33
+ 20
+ 36
+ 36
+ 33
+ 34
+ 34
+ 24
+ 27
+ 28
+ 28
+ 16
+ 19
+ 150
+ 22
+ 22
+ 17
+ 31
+ 24
+ 36
+ 36
+ 9
+ 14
+ 150
+ 0
+ 0
+ 7
+ 5
+ 150
+ 9
+ 35
+ 36
+ 89
+ 33
+ 34
+ 91
+ 28
+ 27
+ 96
+ 24
+ 16
+ 31
+ 152
+ 19
+ 22
+ 21
+ 97
+ 9
+ 5
+ 152
+ 7
+ 101
+ 0
+ 91
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SHP[rp2]
+MIAP[rnd]
+MDRP[rp0,min,rnd,black]
+SHP[rp2]
+MIRP[min,rnd,black]
+SHP[rp2]
+SHP[rp2]
+MIAP[rnd]
+SHP[rp1]
+MIAP[rnd]
+SHP[rp1]
+MIAP[rnd]
+SHP[rp1]
+SVTCA[x-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+MDRP[min,rnd,black]
+IP
+MDAP[rnd]
+MIRP[min,rnd,black]
+SRP1
+SHP[rp1]
+MDAP[rnd]
+MDAP[rnd]
+SHP[rp1]
+MDRP[min,rnd,black]
+IP
+MDAP[rnd]
+MIRP[min,rnd,black]
+SHP[rp2]
+SHP[rp1]
+SRP1
+SHP[rp1]
+SRP1
+SHP[rp1]
+MDAP[rnd]
+SDPVTL[orthog]
+SRP0
+CALL
+SDPVTL[orthog]
+RDTG
+MDRP[rnd,grey]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+323 0 m 1,0,1
+ 329 34 329 34 336 60 c 128,-1,2
+ 343 86 343 86 352 108.5 c 128,-1,3
+ 361 131 361 131 374 152.5 c 128,-1,4
+ 387 174 387 174 405 200 c 1,5,-1
+ 301 200 l 1,6,-1
+ 301 250 l 1,7,-1
+ 476 250 l 1,8,-1
+ 476 209 l 1,9,10
+ 452 182 452 182 437 160 c 128,-1,11
+ 422 138 422 138 411.5 115 c 128,-1,12
+ 401 92 401 92 394.5 64.5 c 128,-1,13
+ 388 37 388 37 382 0 c 1,14,-1
+ 323 0 l 1,0,1
+204 626 m 1,15,-1
+ 204 474 l 1,16,-1
+ 239 474 l 1,17,-1
+ 239 424 l 1,18,-1
+ 204 424 l 1,19,-1
+ 204 376 l 1,20,-1
+ 145 376 l 1,21,-1
+ 145 424 l 1,22,-1
+ 15 424 l 1,23,-1
+ 15 465 l 1,24,25
+ 42 511 42 511 65.5 548.5 c 128,-1,26
+ 89 586 89 586 121 626 c 1,27,-1
+ 204 626 l 1,15,-1
+145 583 m 1,28,29
+ 123 556 123 556 106.5 528 c 128,-1,30
+ 90 500 90 500 74 474 c 1,31,-1
+ 145 474 l 1,32,-1
+ 145 583 l 1,28,29
+101 0 m 1,33,-1
+ 31 0 l 1,34,-1
+ 410 619 l 1,35,-1
+ 480 619 l 1,36,-1
+ 101 0 l 1,33,-1
+EndSplineSet
+Validated: 1
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sinf fraction seven.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sinf fraction seven.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sinf fraction seveninferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sinf fraction sevensuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sinf fraction seven
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sups fraction seven.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sups fraction seven.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sups fraction seveninferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sups fraction sevensuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four.sups fraction seven
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" fourinferior fraction seven.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" fourinferior fraction seven.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" fourinferior fraction seveninferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" fourinferior fraction sevensuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" fourinferior fraction seven
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" foursuperior fraction seven.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" foursuperior fraction seven.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" foursuperior fraction seveninferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" foursuperior fraction sevensuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" foursuperior fraction seven
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four fraction seven.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four fraction seven.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four fraction seveninferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four fraction sevensuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" four fraction seven
+EndChar

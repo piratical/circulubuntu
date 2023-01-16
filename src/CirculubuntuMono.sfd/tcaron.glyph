@@ -1,0 +1,23 @@
+StartChar: tcaron
+Encoding: 357 357 319
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_7
+ 1
+ 97
+ 30
+ 28
+ 23
+ 13
+ 80
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 87 116 N 1 0 0 1 0 0 3
+Refer: 453 -1 N 1 0 0 1 104 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Tcaron
+EndChar

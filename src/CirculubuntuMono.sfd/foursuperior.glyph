@@ -1,0 +1,154 @@
+StartChar: foursuperior
+Encoding: 8308 8308 368
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 16
+ -32
+PUSHB_4
+ 16
+ 0
+ 77
+ 16
+PUSHW_1
+ -24
+NPUSHB
+ 69
+ 15
+ 0
+ 77
+ 14
+ 32
+ 21
+ 0
+ 77
+ 12
+ 32
+ 24
+ 0
+ 77
+ 12
+ 16
+ 21
+ 0
+ 77
+ 12
+ 8
+ 20
+ 0
+ 77
+ 11
+ 24
+ 23
+ 0
+ 77
+ 11
+ 16
+ 22
+ 0
+ 77
+ 11
+ 24
+ 21
+ 0
+ 77
+ 11
+ 16
+ 20
+ 0
+ 77
+ 9
+ 18
+ 14
+ 16
+ 20
+ 0
+ 77
+ 14
+ 15
+ 15
+ 7
+ 150
+ 1
+ 4
+ 21
+ 4
+ 8
+ 9
+ 1
+ 18
+ 18
+ 6
+ 15
+ 14
+ 96
+ 6
+PUSHW_1
+ 256
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+SHP[rp1]
+SRP2
+IP
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+MDRP[min,rnd,black]
+SHP[rp2]
+SVTCA[x-axis]
+SRP0
+MDRP[rp0,min,rnd,white]
+SHP[rp2]
+MIRP[rp0,min,rnd,black]
+SHP[rp2]
+SRP1
+SHP[rp1]
+CALL
+MDRP[min,rnd,black]
+SHP[rp2]
+IUP[x]
+IUP[y]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+339 626 m 1,0,-1
+ 339 418 l 1,1,-1
+ 384 418 l 1,2,-1
+ 384 365 l 1,3,-1
+ 339 365 l 1,4,-1
+ 339 281 l 1,5,-1
+ 279 281 l 1,6,-1
+ 279 365 l 1,7,-1
+ 105 365 l 1,8,-1
+ 105 406 l 1,9,10
+ 117 428 117 428 136.5 457 c 128,-1,11
+ 156 486 156 486 180 516 c 128,-1,12
+ 204 546 204 546 230 575 c 128,-1,13
+ 256 604 256 604 282 626 c 1,14,-1
+ 339 626 l 1,0,-1
+279 552 m 1,15,16
+ 251 523 251 523 222 487.5 c 128,-1,17
+ 193 452 193 452 172 418 c 1,18,-1
+ 279 418 l 1,19,-1
+ 279 552 l 1,15,16
+EndSplineSet
+Validated: 1
+Substitution2: "Single Substitution lookup 22 subtable" fourinferior
+Substitution2: "'sinf' Scientific Inferiors lookup 11 subtable" four.sinf
+Substitution2: "'subs' Subscript lookup 10 subtable" four.sinf
+Substitution2: "'sups' Superscript lookup 9 subtable" four.sups
+Substitution2: "'dnom' Denominators lookup 8 subtable" fourinferior
+EndChar

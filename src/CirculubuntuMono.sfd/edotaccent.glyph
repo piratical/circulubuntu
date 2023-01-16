@@ -1,0 +1,29 @@
+StartChar: edotaccent
+Encoding: 279 279 242
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 11
+ 36
+ 42
+ 19
+ 2
+ 80
+ 2
+ 0
+ 34
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 72 101 N 1 0 0 1 0 0 3
+Refer: 354 729 N 1 0 0 1 9 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Edotaccent
+EndChar

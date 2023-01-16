@@ -1,0 +1,115 @@
+StartChar: u
+Encoding: 117 117 88
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 13
+ -40
+PUSHB_4
+ 17
+ 0
+ 77
+ 13
+PUSHW_1
+ -24
+NPUSHB
+ 48
+ 15
+ 16
+ 0
+ 76
+ 6
+ 24
+ 18
+ 0
+ 77
+ 6
+ 32
+ 9
+ 0
+ 77
+ 6
+ 24
+ 8
+ 0
+ 77
+ 5
+ 32
+ 18
+ 0
+ 77
+ 5
+ 16
+ 10
+ 0
+ 77
+ 19
+ 127
+ 0
+ 23
+ 11
+ 127
+ 0
+ 8
+ 1
+ 8
+ 8
+ 22
+ 20
+ 9
+ 73
+ 14
+ 136
+ 3
+ 81
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+SHP[rp1]
+SVTCA[x-axis]
+SRP0
+MDRP[rp0,rnd,white]
+SDB
+DELTAP1
+MIRP[min,rnd,black]
+SRP0
+MDRP[rp0,min,rnd,white]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+429 13 m 1,0,1
+ 402 6 402 6 357.5 -2 c 128,-1,2
+ 313 -10 313 -10 253 -10 c 0,3,4
+ 200 -10 200 -10 165 5.5 c 128,-1,5
+ 130 21 130 21 108 49.5 c 128,-1,6
+ 86 78 86 78 77 117 c 128,-1,7
+ 68 156 68 156 68 203 c 2,8,-1
+ 68 464 l 1,9,-1
+ 150 464 l 1,10,-1
+ 150 221 l 2,11,12
+ 150 135 150 135 175.5 99 c 128,-1,13
+ 201 63 201 63 261 63 c 0,14,15
+ 274 63 274 63 287.5 64 c 128,-1,16
+ 301 65 301 65 313 66.5 c 128,-1,17
+ 325 68 325 68 334 69.5 c 128,-1,18
+ 343 71 343 71 346 72 c 2,19,-1
+ 346 464 l 1,20,-1
+ 429 464 l 1,21,-1
+ 429 13 l 1,0,1
+EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" U
+EndChar

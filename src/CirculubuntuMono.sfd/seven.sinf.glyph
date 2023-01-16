@@ -1,0 +1,13 @@
+StartChar: seven.sinf
+Encoding: 63515 63515 447
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+Refer: 371 8311 N 1 0 0 1 -8 -434 3
+Validated: 1
+Substitution2: "'ss02' Style Set 2 lookup 15 subtable" sevensuperior
+Substitution2: "'sups' Superscript lookup 9 subtable" seven.sups
+Substitution2: "'dnom' Denominators lookup 8 subtable" seveninferior
+Substitution2: "'numr' Numerators lookup 6 subtable" sevensuperior
+EndChar

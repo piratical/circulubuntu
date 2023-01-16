@@ -1,0 +1,23 @@
+StartChar: Iotatonos
+Encoding: 906 906 960
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 1
+ -263
+PUSHB_5
+ 14
+ 12
+ 4
+ 2
+ 80
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 3
+Refer: 978 -1 N 1 0 0 1 -280 0 2
+Validated: 1
+EndChar

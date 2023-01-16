@@ -1,0 +1,29 @@
+StartChar: jcircumflex
+Encoding: 309 309 273
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 42
+ 25
+ 21
+ 11
+ 2
+ 80
+ 1
+ 1
+ 22
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 349 567 N 1 0 0 1 0 0 3
+Refer: 105 710 N 1 0 0 1 20 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Jcircumflex
+EndChar

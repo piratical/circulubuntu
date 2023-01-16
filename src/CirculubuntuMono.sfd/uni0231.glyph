@@ -1,0 +1,35 @@
+StartChar: uni0231
+Encoding: 561 561 645
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 16
+ 3
+ 2
+ 0
+ 44
+ 45
+ 9
+ 0
+ 80
+ 3
+ 14
+ 46
+ 79
+ 2
+ 14
+ 32
+ 79
+CALL
+CALL
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 82 111 N 1 0 0 1 0 0 3
+Refer: 680 -1 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

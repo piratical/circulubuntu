@@ -1,0 +1,287 @@
+StartChar: zero
+Encoding: 48 48 19
+Width: 500
+Flags: W
+TtInstrs:
+PUSHB_7
+ 41
+ 16
+ 13
+ 14
+ 0
+ 76
+ 37
+PUSHW_1
+ -24
+PUSHB_4
+ 14
+ 0
+ 77
+ 37
+PUSHW_1
+ -16
+PUSHB_4
+ 13
+ 0
+ 77
+ 31
+PUSHW_1
+ -24
+PUSHB_4
+ 14
+ 0
+ 77
+ 31
+PUSHW_1
+ -16
+NPUSHB
+ 20
+ 13
+ 0
+ 77
+ 27
+ 16
+ 13
+ 14
+ 0
+ 76
+ 22
+ 24
+ 16
+ 0
+ 77
+ 22
+ 32
+ 15
+ 0
+ 77
+ 20
+PUSHW_1
+ -24
+PUSHB_5
+ 15
+ 16
+ 0
+ 76
+ 16
+PUSHW_1
+ -16
+PUSHB_4
+ 16
+ 0
+ 77
+ 16
+PUSHW_1
+ -48
+NPUSHB
+ 14
+ 15
+ 0
+ 77
+ 14
+ 24
+ 16
+ 0
+ 77
+ 14
+ 16
+ 15
+ 0
+ 77
+ 8
+PUSHW_1
+ -16
+PUSHB_4
+ 34
+ 0
+ 77
+ 8
+PUSHW_1
+ -16
+PUSHB_4
+ 30
+ 0
+ 77
+ 8
+PUSHW_1
+ -24
+PUSHB_5
+ 27
+ 29
+ 0
+ 76
+ 0
+PUSHW_1
+ -64
+NPUSHB
+ 39
+ 27
+ 28
+ 0
+ 76
+ 144
+ 0
+ 1
+ 80
+ 0
+ 128
+ 0
+ 144
+ 0
+ 192
+ 0
+ 224
+ 0
+ 240
+ 0
+ 6
+ 0
+ 64
+ 9
+ 12
+ 72
+ 0
+ 143
+ 6
+ 159
+ 6
+ 207
+ 6
+ 3
+ 6
+ 64
+ 27
+ 30
+ 72
+ 6
+PUSHW_1
+ -64
+NPUSHB
+ 32
+ 9
+ 12
+ 72
+ 6
+ 6
+ 34
+ 24
+ 140
+ 18
+ 45
+ 34
+ 140
+ 12
+ 44
+ 63
+ 3
+ 1
+ 3
+ 160
+ 9
+ 1
+ 9
+ 9
+ 15
+ 39
+ 143
+ 21
+ 87
+ 29
+ 143
+ 15
+ 88
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SRP1
+IP
+MDAP[rnd]
+DELTAP1
+MDRP[min,rnd,black]
+DELTAP1
+SVTCA[x-axis]
+SRP0
+MDRP[rp0,rnd,white]
+MIRP[min,rnd,black]
+SRP0
+MDRP[rp0,min,rnd,white]
+MIRP[min,rnd,black]
+SRP1
+IP
+MDAP[rnd]
+CALL
+CALL
+DELTAP1
+MDRP[min,rnd,black]
+CALL
+DELTAP1
+DELTAP2
+CALL
+IUP[x]
+IUP[y]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+308 321 m 256,0,1
+ 308 295 308 295 292.5 276 c 128,-1,2
+ 277 257 277 257 252 257 c 0,3,4
+ 226 257 226 257 210 276 c 128,-1,5
+ 194 295 194 295 194 321 c 256,6,7
+ 194 347 194 347 210 367 c 128,-1,8
+ 226 387 226 387 252 387 c 0,9,10
+ 277 387 277 387 292.5 367 c 128,-1,11
+ 308 347 308 347 308 321 c 256,0,1
+46 310 m 256,12,13
+ 46 466 46 466 99.5 549.5 c 128,-1,14
+ 153 633 153 633 250 633 c 0,15,16
+ 348 633 348 633 401 549.5 c 128,-1,17
+ 454 466 454 466 454 310 c 256,18,19
+ 454 154 454 154 401 70.5 c 128,-1,20
+ 348 -13 348 -13 250 -13 c 0,21,22
+ 153 -13 153 -13 99.5 70.5 c 128,-1,23
+ 46 154 46 154 46 310 c 256,12,13
+370 310 m 256,24,25
+ 370 361 370 361 364 406.5 c 128,-1,26
+ 358 452 358 452 344 486 c 128,-1,27
+ 330 520 330 520 307 540 c 128,-1,28
+ 284 560 284 560 250 560 c 256,29,30
+ 216 560 216 560 193 540 c 128,-1,31
+ 170 520 170 520 156 486 c 128,-1,32
+ 142 452 142 452 136 406.5 c 128,-1,33
+ 130 361 130 361 130 310 c 256,34,35
+ 130 259 130 259 136 213.5 c 128,-1,36
+ 142 168 142 168 156 134 c 128,-1,37
+ 170 100 170 100 193 80 c 128,-1,38
+ 216 60 216 60 250 60 c 256,39,40
+ 284 60 284 60 307 80 c 128,-1,41
+ 330 100 330 100 344 134 c 128,-1,42
+ 358 168 358 168 364 213.5 c 128,-1,43
+ 370 259 370 259 370 310 c 256,24,25
+EndSplineSet
+Validated: 1
+Substitution2: "'ss02' Style Set 2 lookup 15 subtable" zerosuperior
+Substitution2: "'sinf' Scientific Inferiors lookup 11 subtable" zero.sinf
+Substitution2: "'subs' Subscript lookup 10 subtable" zero.sinf
+Substitution2: "'sups' Superscript lookup 9 subtable" zero.sups
+Substitution2: "'dnom' Denominators lookup 8 subtable" zeroinferior
+Substitution2: "'numr' Numerators lookup 6 subtable" zerosuperior
+EndChar

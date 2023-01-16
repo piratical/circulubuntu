@@ -1,0 +1,201 @@
+StartChar: twosevenths
+Encoding: 62727 62727 399
+Width: 500
+Flags: W
+TtInstrs:
+PUSHW_2
+ 31
+ -24
+PUSHB_4
+ 25
+ 0
+ 77
+ 26
+PUSHW_1
+ -40
+NPUSHB
+ 62
+ 14
+ 21
+ 0
+ 76
+ 39
+ 33
+ 150
+ 47
+ 42
+ 0
+ 2
+ 1
+ 2
+ 156
+ 3
+ 0
+ 20
+ 3
+ 0
+ 3
+ 3
+ 38
+ 150
+ 42
+ 14
+ 150
+ 27
+ 4
+ 4
+ 27
+ 6
+ 1
+ 1
+ 32
+ 150
+ 6
+ 21
+ 21
+ 6
+ 42
+ 38
+ 152
+ 40
+ 101
+ 33
+ 91
+ 20
+ 20
+ 17
+ 152
+ 24
+ 99
+ 32
+ 152
+ 6
+ 97
+ 2
+ 3
+ 89
+ 0
+ 1
+ 91
+SVTCA[y-axis]
+MIAP[rnd]
+SHP[rp1]
+MIAP[rnd]
+SHP[rp1]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+MIAP[rnd]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SHP[rp2]
+SVTCA[x-axis]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SRP0
+MIRP[min,rnd,black]
+SHP[rp1]
+MDAP[rnd]
+SRP0
+MDRP[min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+SRP0
+MIRP[min,rnd,black]
+MDAP[rnd]
+MIRP[min,rnd,black]
+SHP[rp1]
+MDAP[rnd]
+SDPVTL[orthog]
+CALL
+SDPVTL[orthog]
+RDTG
+MDRP[rnd,grey]
+SVTCA[x-axis]
+RTG
+SRP0
+MDRP[rp0,min,rnd,white]
+MIRP[min,rnd,black]
+MDRP[min,rnd,grey]
+IUP[x]
+IUP[y]
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+104 0 m 1,0,-1
+ 34 0 l 1,1,-1
+ 413 619 l 1,2,-1
+ 483 619 l 1,3,-1
+ 104 0 l 1,0,-1
+219 424 m 1,4,-1
+ 219 374 l 1,5,-1
+ 21 374 l 1,6,-1
+ 21 397 l 2,7,8
+ 21 429 21 429 41 446.5 c 128,-1,9
+ 61 464 61 464 87 480 c 2,10,-1
+ 109 495 l 2,11,12
+ 132 509 132 509 141.5 521.5 c 128,-1,13
+ 151 534 151 534 151 548 c 0,14,15
+ 151 565 151 565 139.5 573 c 128,-1,16
+ 128 581 128 581 112 581 c 0,17,18
+ 97 581 97 581 81 574.5 c 128,-1,19
+ 65 568 65 568 53 555 c 1,20,-1
+ 21 595 l 1,21,22
+ 38 614 38 614 63.5 623.5 c 128,-1,23
+ 89 633 89 633 115 633 c 0,24,25
+ 163 633 163 633 186.5 608 c 128,-1,26
+ 210 583 210 583 210 551 c 0,27,28
+ 210 525 210 525 196.5 506.5 c 128,-1,29
+ 183 488 183 488 164.5 473.5 c 128,-1,30
+ 146 459 146 459 125.5 447.5 c 128,-1,31
+ 105 436 105 436 92 424 c 1,32,-1
+ 219 424 l 1,4,-1
+314 0 m 1,33,34
+ 320 34 320 34 327 60 c 128,-1,35
+ 334 86 334 86 343 108.5 c 128,-1,36
+ 352 131 352 131 365 152.5 c 128,-1,37
+ 378 174 378 174 396 200 c 1,38,-1
+ 292 200 l 1,39,-1
+ 292 250 l 1,40,-1
+ 467 250 l 1,41,-1
+ 467 209 l 1,42,43
+ 443 182 443 182 428 160 c 128,-1,44
+ 413 138 413 138 402.5 115 c 128,-1,45
+ 392 92 392 92 385.5 64.5 c 128,-1,46
+ 379 37 379 37 373 0 c 1,47,-1
+ 314 0 l 1,33,34
+EndSplineSet
+Validated: 1
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" two.sinf fraction seven.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" two.sinf fraction seven.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" two.sinf fraction seveninferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" two.sinf fraction sevensuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" two.sinf fraction seven
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" two.sups fraction seven.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" two.sups fraction seven.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" two.sups fraction seveninferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" two.sups fraction sevensuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" two.sups fraction seven
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" twoinferior fraction seven.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" twoinferior fraction seven.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" twoinferior fraction seveninferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" twoinferior fraction sevensuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" twoinferior fraction seven
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" twosuperior fraction seven.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" twosuperior fraction seven.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" twosuperior fraction seveninferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" twosuperior fraction sevensuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" twosuperior fraction seven
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" two fraction seven.sinf
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" two fraction seven.sups
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" two fraction seveninferior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" two fraction sevensuperior
+Ligature2: "'frac' Diagonal Fractions lookup 13 subtable" two fraction seven
+EndChar

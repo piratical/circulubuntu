@@ -1,0 +1,29 @@
+StartChar: zcaron
+Encoding: 382 382 343
+Width: 500
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 1
+ 0
+ 18
+ 22
+ 8
+ 6
+ 80
+ 1
+ 16
+ 23
+ 79
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 93 122 N 1 0 0 1 0 0 3
+Refer: 351 711 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms lookup 18 subtable" Zcaron
+EndChar
