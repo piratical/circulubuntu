@@ -92,4 +92,5 @@ SplineSet
  350 69 350 69 301 111 c 128,-1,68
 EndSplineSet
 Validated: 1
+Ligature2: "DoubleStruckToEncircled subtable" u1D7DE u1D7DD
 EndChar

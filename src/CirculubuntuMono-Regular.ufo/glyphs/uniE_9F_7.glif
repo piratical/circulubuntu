@@ -93,12 +93,12 @@
       <point x="357" y="512" type="line" smooth="yes"/>
       <point x="353" y="509"/>
       <point x="349" y="509" type="qcurve" smooth="yes"/>
-      <point x="343.5" y="509"/>
+      <point x="343" y="509"/>
       <point x="340" y="516" type="qcurve" smooth="yes"/>
       <point x="334" y="528" type="line" smooth="yes"/>
       <point x="332" y="532"/>
       <point x="332" y="535" type="qcurve" smooth="yes"/>
-      <point x="332" y="539.929"/>
+      <point x="332" y="540"/>
       <point x="336" y="544" type="qcurve" smooth="yes"/>
       <point x="448" y="658" type="line" smooth="yes"/>
       <point x="454" y="664"/>

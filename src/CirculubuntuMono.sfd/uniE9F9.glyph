@@ -1,5 +1,6 @@
 StartChar: uniE9F9
 Encoding: 59897 59897 1403
+GlifName: uniE_9F_9
 Width: 500
 Flags: W
 LayerCount: 2
@@ -103,4 +104,6 @@ SplineSet
  489 70 489 70 439 70 c 0,134,78
  375 70 375 70 327.5 111.5 c 128,-1,79
 EndSplineSet
+Validated: 1
+Ligature2: "DoubleStruckToEncircled subtable" u1D7DD u1D7DB
 EndChar

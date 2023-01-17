@@ -1,6 +1,6 @@
 StartChar: .null
 Encoding: 8 8 1
-AltUni2: 000000.ffffffff.0 00001d.ffffffff.0
+AltUni2: 00001d.ffffffff.0 000000.ffffffff.0
 GlifName: _null
 Width: 500
 Flags: W

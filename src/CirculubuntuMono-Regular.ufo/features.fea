@@ -1211,6 +1211,60 @@ lookup ss01StyleSet1lookup21 {
     sub \uni1FFC by \uni1FFC.alt ;
 } ss01StyleSet1lookup21;
 
+lookup DoubleStruckToEncircled {
+  lookupflag 0;
+    sub \u1D7DE \u1D7D8  by \uniEA00;
+    sub \u1D7DE \u1D7D9  by \uniEA01;
+    sub \u1D7DE \u1D7DA  by \uniEA02;
+    sub \u1D7DE \u1D7DB  by \uniEA03;
+    sub \u1D7DE \u1D7DC  by \uniEA04;
+    sub \u1D7DE \u1D7DD  by \uniEA05;
+    sub \u1D7DE \u1D7DE  by \uniEA06;
+    sub \u1D7DE \u1D7DF  by \uniEA07;
+    sub \u1D7DE \u1D7E0  by \uniEA08;
+    sub \u1D7DE \u1D7E1  by \uniEA09;
+    sub \u1D7DF \u1D7D8  by \uniEA0A;
+    sub \u1D7DF \u1D7D9  by \uniEA0B;
+    sub \u1D7DF \u1D7DA  by \uniEA0C;
+    sub \u1D7DF \u1D7DB  by \uniEA0D;
+    sub \u1D7DF \u1D7DC  by \uniEA0E;
+    sub \u1D7DF \u1D7DD  by \uniEA0F;
+    sub \u1D7DF \u1D7DE  by \uniEA10;
+    sub \u1D7DF \u1D7DF  by \uniEA11;
+    sub \u1D7DF \u1D7E0  by \uniEA12;
+    sub \u1D7DF \u1D7E1  by \uniEA13;
+    sub \u1D7E0 \u1D7D8  by \uniEA14;
+    sub \u1D7E0 \u1D7D9  by \uniEA15;
+    sub \u1D7E0 \u1D7DA  by \uniEA16;
+    sub \u1D7E0 \u1D7DB  by \uniEA17;
+    sub \u1D7E0 \u1D7DC  by \uniEA18;
+    sub \u1D7E0 \u1D7DD  by \uniEA19;
+    sub \u1D7E0 \u1D7DE  by \uniEA1A;
+    sub \u1D7E0 \u1D7DF  by \uniEA1B;
+    sub \u1D7E0 \u1D7E0  by \uniEA1C;
+    sub \u1D7E0 \u1D7E1  by \uniEA1D;
+    sub \u1D7E1 \u1D7D8  by \uniEA1E;
+    sub \u1D7E1 \u1D7D9  by \uniEA1F;
+    sub \u1D7E1 \u1D7DA  by \uniEA20;
+    sub \u1D7E1 \u1D7DB  by \uniEA21;
+    sub \u1D7E1 \u1D7DC  by \uniEA22;
+    sub \u1D7E1 \u1D7DD  by \uniEA23;
+    sub \u1D7E1 \u1D7DE  by \uniEA24;
+    sub \u1D7E1 \u1D7DF  by \uniEA25;
+    sub \u1D7E1 \u1D7E0  by \uniEA26;
+    sub \u1D7E1 \u1D7E1  by \uniEA27;
+    sub \u1D7D9 \u1D7D8 \u1D7D8  by \uniEA28;
+    sub \u1D7DD \u1D7D9  by \uniE9F7;
+    sub \u1D7DD \u1D7DA  by \uniE9F8;
+    sub \u1D7DD \u1D7DB  by \uniE9F9;
+    sub \u1D7DD \u1D7DC  by \uniE9FA;
+    sub \u1D7DD \u1D7DD  by \uniE9FB;
+    sub \u1D7DD \u1D7DE  by \uniE9FC;
+    sub \u1D7DD \u1D7DF  by \uniE9FD;
+    sub \u1D7DD \u1D7E0  by \uniE9FE;
+    sub \u1D7DD \u1D7E1  by \uniE9FF;
+} DoubleStruckToEncircled;
+
 feature locl {
 
  script cyrl;
@@ -1605,6 +1659,13 @@ feature ss01 {
       lookup ss01StyleSet1lookup20;
       lookup ss01StyleSet1lookup21;
 } ss01;
+
+feature ccmp {
+
+ script latn;
+     language dflt ;
+      lookup DoubleStruckToEncircled;
+} ccmp;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\.null \nonmarkingreturn \space \exclam \quotedbl \numbersign 
@@ -1763,20 +1824,21 @@ feature ss01 {
 	\uni246E \uni246F \uni2470 \uni2471 \uni2472 \uni2473 \uni24F5 \uni24F6 \uni24F7 
 	\uni24F8 \uni24F9 \uni24FA \uni24FB \uni24FC \uni24FD \uni24FE \uni3251 \uni3252 
 	\uni3253 \uni3254 \uni3255 \uni3256 \uni3257 \uni3258 \uni3259 \uni325A \uni325B 
-	\uni325C \uni325D \uni325E \uni325F \uni24EA \uniEA00 \uniEA01 \uniEA02 \uniEA03 
-	\uniEA04 \uniEA05 \uniEA06 \uniEA07 \uniEA08 \uniEA09 \uniEA0A \uniEA0B \uniEA0C 
-	\uniEA0D \uniEA0E \uniEA0F \uniEA10 \uniEA11 \uniEA12 \uniEA13 \uniEA14 \uniEA15 
-	\uniEA16 \uniEA17 \uniEA18 \uniEA19 \uniEA1A \uniEA1B \uniEA1C \uniEA1D \uniEA1E 
-	\uniEA1F \uniEA20 \uniEA21 \uniEA22 \uniEA23 \uniEA24 \uniEA25 \uniEA26 \uniEA27 
-	\uniEA28 \u1D7D8 \u1D7D9 \u1D7DA \u1D7DB \u1D7DC \u1D7DD \u1D7DE \u1D7DF \u1D7E0 
-	\u1D7E1 \uni32B1 \uni32B2 \uni32B3 \uni32B4 \uni32B5 \uni32B6 \uni32B7 \uni32B8 
-	\uni32B9 \uni32BA \uni32BB \uni32BC \uni32BD \uni32BE \uni32BF \uniE9F7 \uniE9F8 
-	\uniE9F9 \uniE9FA \uniE9FB \uniE9FC \uniE9FD \uniE9FE \uniE9FF ];
+	\uni325C \uni325D \uni325E \uni325F \uni24EA \u1D7D8 \u1D7D9 \u1D7DA \u1D7DB 
+	\u1D7DC \u1D7DD \u1D7DE \u1D7DF \u1D7E0 \u1D7E1 \uni32B1 \uni32B2 \uni32B3 
+	\uni32B4 \uni32B5 \uni32B6 \uni32B7 \uni32B8 \uni32B9 \uni32BA \uni32BB \uni32BC 
+	\uni32BD \uni32BE \uni32BF ];
 @GDEF_Ligature = [\onequarter \onehalf \threequarters \onethird \twothirds 
 	\oneeighth \threeeighths \fiveeighths \seveneighths \onefifth \twofifths 
 	\threefifths \fourfifths \onesixth \fivesixths \oneseventh \twosevenths 
 	\threesevenths \foursevenths \fivesevenths \sixsevenths \oneninth \twoninths 
-	\fourninths \fiveninths \sevenninths \eightninths ];
+	\fourninths \fiveninths \sevenninths \eightninths \uniEA00 \uniEA01 \uniEA02 
+	\uniEA03 \uniEA04 \uniEA05 \uniEA06 \uniEA07 \uniEA08 \uniEA09 \uniEA0A \uniEA0B 
+	\uniEA0C \uniEA0D \uniEA0E \uniEA0F \uniEA10 \uniEA11 \uniEA12 \uniEA13 \uniEA14 
+	\uniEA15 \uniEA16 \uniEA17 \uniEA18 \uniEA19 \uniEA1A \uniEA1B \uniEA1C \uniEA1D 
+	\uniEA1E \uniEA1F \uniEA20 \uniEA21 \uniEA22 \uniEA23 \uniEA24 \uniEA25 \uniEA26 
+	\uniEA27 \uniEA28 \uniE9F7 \uniE9F8 \uniE9F9 \uniE9FA \uniE9FB \uniE9FC \uniE9FD 
+	\uniE9FE \uniE9FF ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;

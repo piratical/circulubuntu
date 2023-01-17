@@ -49,7 +49,7 @@ lookup DoubleStruckToEncircled {
     sub \u1d7e1 \u1d7df by \uniea25 ;
     sub \u1d7e1 \u1d7e0 by \uniea26 ;
     sub \u1d7e1 \u1d7e1 by \uniea27 ;
-    sub \uni1d7d9 \uni1d7d8 \uni1d7d8 by \uniea28 ;
+    sub \u1d7d9 \u1d7d8 \u1d7d8 by \uniea28 ;
 } DoubleStruckToEncircled ;
 
 feature ccmp{
