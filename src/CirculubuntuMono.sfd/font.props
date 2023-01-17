@@ -1,9 +1,9 @@
 SplineFontDB: 3.2
 FontName: CirculubuntuMono-Regular
-FullName: Circulubuntu Mono
-FamilyName: Ciruclubuntu Mono
+FullName: CirculubuntuMono
+FamilyName: CirculubuntuMono
 Weight: Regular
-Copyright: Circulubuntu Mono is (c) 2023 by Ed Trager <ed.trager@gmail.com>. It is an expansion of the Ubuntu Mono-Regular font which includes Unicode circled digits. The original Ubuntu Mono is Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
+Copyright: Circulubuntu Mono is (c) 2023 by Ed Trager <ed.trager@gmail.com>. It is an expansion of the Ubuntu Mono-Regular font which includes Unicode circled digits and additional circled digits constructed as ligatures. The original Ubuntu Mono is Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
 Version: 0.80
 ItalicAngle: 0
 UnderlinePosition: -133
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1304432203
-ModificationTime: 1673920751
+ModificationTime: 1673968221
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
