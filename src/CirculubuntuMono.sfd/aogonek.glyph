@@ -1,5 +1,6 @@
 StartChar: aogonek
 Encoding: 261 261 224
+GlifName: aogonek
 Width: 500
 Flags: W
 TtInstrs:

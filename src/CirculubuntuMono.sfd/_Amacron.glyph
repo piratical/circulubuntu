@@ -1,5 +1,6 @@
 StartChar: Amacron
 Encoding: 256 256 219
+GlifName: A_macron
 Width: 500
 Flags: W
 TtInstrs:

@@ -1,5 +1,6 @@
 StartChar: notequal
 Encoding: 8800 8800 422
+GlifName: notequal
 Width: 500
 Flags: W
 TtInstrs:

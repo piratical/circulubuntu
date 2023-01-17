@@ -1,5 +1,6 @@
 StartChar: currency
 Encoding: 164 164 127
+GlifName: currency
 Width: 500
 Flags: W
 TtInstrs:

@@ -1,5 +1,6 @@
 StartChar: Ibreve
 Encoding: 300 300 263
+GlifName: I_breve
 Width: 500
 Flags: W
 TtInstrs:

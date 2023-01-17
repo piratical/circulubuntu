@@ -1,5 +1,6 @@
 StartChar: iota
 Encoding: 953 953 940
+GlifName: iota
 Width: 500
 Flags: W
 TtInstrs:

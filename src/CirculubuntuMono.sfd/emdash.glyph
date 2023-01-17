@@ -1,5 +1,6 @@
 StartChar: emdash
 Encoding: 8212 8212 116
+GlifName: emdash
 Width: 500
 Flags: W
 TtInstrs:

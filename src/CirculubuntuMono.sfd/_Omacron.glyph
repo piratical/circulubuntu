@@ -1,5 +1,6 @@
 StartChar: Omacron
 Encoding: 332 332 298
+GlifName: O_macron
 Width: 500
 Flags: W
 TtInstrs:

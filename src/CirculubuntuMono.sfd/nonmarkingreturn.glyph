@@ -1,6 +1,7 @@
 StartChar: nonmarkingreturn
 Encoding: 9 9 2
 AltUni2: 00000d.ffffffff.0
+GlifName: nonmarkingreturn
 Width: 500
 Flags: W
 LayerCount: 2

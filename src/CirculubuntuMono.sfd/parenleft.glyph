@@ -1,5 +1,6 @@
 StartChar: parenleft
 Encoding: 40 40 11
+GlifName: parenleft
 Width: 500
 Flags: W
 TtInstrs:

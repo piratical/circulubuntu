@@ -1,5 +1,6 @@
 StartChar: eth
 Encoding: 240 240 203
+GlifName: eth
 Width: 500
 Flags: W
 TtInstrs:

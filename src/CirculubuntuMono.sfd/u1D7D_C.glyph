@@ -1,5 +1,6 @@
 StartChar: u1D7DC
 Encoding: 120796 120796 1380
+GlifName: u1D_7D_C_
 Width: 500
 Flags: W
 LayerCount: 2
@@ -27,5 +28,5 @@ SplineSet
  269.5 206 l 1,17,-1
  269.5 465 l 1,15,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

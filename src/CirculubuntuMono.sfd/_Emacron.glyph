@@ -1,5 +1,6 @@
 StartChar: Emacron
 Encoding: 274 274 237
+GlifName: E_macron
 Width: 500
 Flags: W
 TtInstrs:
