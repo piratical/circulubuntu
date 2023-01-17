@@ -36,7 +36,7 @@ int main(int argc,const char**argv){
   }
 
   // Finally, for circled "100" we just do the line manually:
-  std::cout << "    sub \\uni1d7d9 \\uni1d7d8 \\uni1d7d8 by \\uniea28 ;" << std::endl;
+  std::cout << "    sub \\u1d7d9 \\u1d7d8 \\u1d7d8 by \\uniea28 ;" << std::endl;
   // lookup is done:
   std::cout << "} DoubleStruckToEncircled ;" << std::endl;
   std::cout << std::endl;
