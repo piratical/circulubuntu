@@ -29,7 +29,7 @@ int main(int argc,const char**argv){
 	continue;
       }
 
-      std::cout << "    " << "sub \\uni" << std::hex << (dso+i) << " \\uni" << std::hex << (dso+j) << " by \\uni" << std::hex << pgo << " ;" << std::endl;
+      std::cout << "    " << "sub \\u" << std::hex << (dso+i) << " \\u" << std::hex << (dso+j) << " by \\uni" << std::hex << pgo << " ;" << std::endl;
       pgo++;
 
     }
