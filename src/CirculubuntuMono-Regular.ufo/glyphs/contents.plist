@@ -2804,5 +2804,23 @@
     <string>uni32B_E_.glif</string>
     <key>uni32BF</key>
     <string>uni32B_F_.glif</string>
+    <key>uniE9F7</key>
+    <string>uniE_9F_7.glif</string>
+    <key>uniE9F8</key>
+    <string>uniE_9F_8.glif</string>
+    <key>uniE9F9</key>
+    <string>uniE_9F_9.glif</string>
+    <key>uniE9FA</key>
+    <string>uniE_9F_A_.glif</string>
+    <key>uniE9FB</key>
+    <string>uniE_9F_B_.glif</string>
+    <key>uniE9FC</key>
+    <string>uniE_9F_C_.glif</string>
+    <key>uniE9FD</key>
+    <string>uniE_9F_D_.glif</string>
+    <key>uniE9FE</key>
+    <string>uniE_9F_E_.glif</string>
+    <key>uniE9FF</key>
+    <string>uniE_9F_F_.glif</string>
   </dict>
 </plist>

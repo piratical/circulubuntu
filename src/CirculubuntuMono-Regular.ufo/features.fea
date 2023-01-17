@@ -1770,7 +1770,8 @@ feature ss01 {
 	\uniEA1F \uniEA20 \uniEA21 \uniEA22 \uniEA23 \uniEA24 \uniEA25 \uniEA26 \uniEA27 
 	\uniEA28 \u1D7D8 \u1D7D9 \u1D7DA \u1D7DB \u1D7DC \u1D7DD \u1D7DE \u1D7DF \u1D7E0 
 	\u1D7E1 \uni32B1 \uni32B2 \uni32B3 \uni32B4 \uni32B5 \uni32B6 \uni32B7 \uni32B8 
-	\uni32B9 \uni32BA \uni32BB \uni32BC \uni32BD \uni32BE \uni32BF ];
+	\uni32B9 \uni32BA \uni32BB \uni32BC \uni32BD \uni32BE \uni32BF \uniE9F7 \uniE9F8 
+	\uniE9F9 \uniE9FA \uniE9FB \uniE9FC \uniE9FD \uniE9FE \uniE9FF ];
 @GDEF_Ligature = [\onequarter \onehalf \threequarters \onethird \twothirds 
 	\oneeighth \threeeighths \fiveeighths \seveneighths \onefifth \twofifths 
 	\threefifths \fourfifths \onesixth \fivesixths \oneseventh \twosevenths 
